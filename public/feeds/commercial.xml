@@ -201,20 +201,6 @@ Units: </description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2618578-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |ARROWHEAD ELEMENTARY SCHOOL FIRE ALARM</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 26-2618578-000-00
-Issued: 2026-05-18
-Address: 19100 E BATES AVE
-Contractor: 
-Valuation: 225000.0
-Units: </description>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2622506-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | MEADOW RUE MONTESSORI SCHOOL | FIRE SPRINKLER - ADD 2 NEW HEADS, RELOCATE 13 AND PLUG 6.</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -225,6 +211,20 @@ Issued: 2026-05-18
 Address: 1300 S POTOMAC ST
 Contractor: 
 Valuation: 4450.0
+Units: </description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2618578-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |ARROWHEAD ELEMENTARY SCHOOL FIRE ALARM</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2618578-000-00
+Issued: 2026-05-18
+Address: 19100 E BATES AVE
+Contractor: 
+Valuation: 225000.0
 Units: </description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -411,6 +411,34 @@ Units: </description>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">CO|aurora|23-2302049-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |BLDG 6 SELF STORAGE OUTBUILDING NEW BUILD</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 23-2302049-000-00
+Issued: 2026-03-19
+Address: 22044 E ATLANTIC PL
+Contractor: 
+Valuation: 434618.0
+Units: </description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|23-2302017-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | SELF STORAGE OUTBUILDING NEW BUILT BLDG 7</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 23-2302017-000-00
+Issued: 2026-03-19
+Address: 22052 E ATLANTIC PL
+Contractor: 
+Valuation: 434618.0
+Units: </description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|23-2301326-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | BLDG 9 SELF STORAGE OUTBUILDING NEW BUILT</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -433,34 +461,6 @@ Score: 30
 Permit: 23-2301322-000-00
 Issued: 2026-03-19
 Address: 22054 E ATLANTIC PL
-Contractor: 
-Valuation: 434618.0
-Units: </description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|23-2302017-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | SELF STORAGE OUTBUILDING NEW BUILT BLDG 7</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 23-2302017-000-00
-Issued: 2026-03-19
-Address: 22052 E ATLANTIC PL
-Contractor: 
-Valuation: 434618.0
-Units: </description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|23-2302049-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |BLDG 6 SELF STORAGE OUTBUILDING NEW BUILD</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 23-2302049-000-00
-Issued: 2026-03-19
-Address: 22044 E ATLANTIC PL
 Contractor: 
 Valuation: 434618.0
 Units: </description>
@@ -804,20 +804,6 @@ Units: </description>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2540241-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |CCPS - POLTON ELEMENTARY SCHOOL - ACCESS CONTROL</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 25-2540241-000-00
-Issued: 2025-08-14
-Address: 2985 S OAKLAND ST
-Contractor: 
-Valuation: 8000.0
-Units: </description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2540359-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | TBC CORP - TIRE WAREHOUSE RACKING PLAN</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -828,6 +814,20 @@ Issued: 2025-08-14
 Address: 2470 N AIRPORT BLVD
 Contractor: 
 Valuation: 372000.0
+Units: </description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2540241-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |CCPS - POLTON ELEMENTARY SCHOOL - ACCESS CONTROL</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 25-2540241-000-00
+Issued: 2025-08-14
+Address: 2985 S OAKLAND ST
+Contractor: 
+Valuation: 8000.0
 Units: </description>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
@@ -918,20 +918,6 @@ Units: </description>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|24-2469583-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |AERO 70 BUILDING 1</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 50
-Permit: 24-2469583-000-00
-Issued: 2025-07-17
-Address: 25100 E SMITH RD
-Contractor: 
-Valuation: 36877514.0
-Units: </description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|24-2469585-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | AERO 70 BUILDING 2</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -942,6 +928,20 @@ Issued: 2025-07-17
 Address: 25150 E SMITH RD
 Contractor: 
 Valuation: 34743621.0
+Units: </description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|24-2469583-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |AERO 70 BUILDING 1</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 50
+Permit: 24-2469583-000-00
+Issued: 2025-07-17
+Address: 25100 E SMITH RD
+Contractor: 
+Valuation: 36877514.0
 Units: </description>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
@@ -1073,20 +1073,6 @@ Units: </description>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|24-2481535-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WYNDHAM HOTELS - ECHO SUITES WITH TRASH ENCLOSURE</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 50
-Permit: 24-2481535-000-00
-Issued: 2025-04-29
-Address: 18800 E 32ND PKWY
-Contractor: 
-Valuation: 10177360.0
-Units: </description>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2518359-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | OVERLAND HIGH SCHOOL CAMPUS IMPROVEMENTS TEMP CONSTRUCTION TRAILER</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -1097,6 +1083,20 @@ Issued: 2025-04-29
 Address: 12300 E JEWELL AVE
 Contractor: 
 Valuation: 60000000.0
+Units: </description>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|24-2481535-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | WYNDHAM HOTELS - ECHO SUITES WITH TRASH ENCLOSURE</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 50
+Permit: 24-2481535-000-00
+Issued: 2025-04-29
+Address: 18800 E 32ND PKWY
+Contractor: 
+Valuation: 10177360.0
 Units: </description>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
     </item>

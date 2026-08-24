@@ -259,20 +259,6 @@ Units: </description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2618578-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |ARROWHEAD ELEMENTARY SCHOOL FIRE ALARM</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 26-2618578-000-00
-Issued: 2026-05-18
-Address: 19100 E BATES AVE
-Contractor: 
-Valuation: 225000.0
-Units: </description>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2622506-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | MEADOW RUE MONTESSORI SCHOOL | FIRE SPRINKLER - ADD 2 NEW HEADS, RELOCATE 13 AND PLUG 6.</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -283,6 +269,20 @@ Issued: 2026-05-18
 Address: 1300 S POTOMAC ST
 Contractor: 
 Valuation: 4450.0
+Units: </description>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2618578-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |ARROWHEAD ELEMENTARY SCHOOL FIRE ALARM</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2618578-000-00
+Issued: 2026-05-18
+Address: 19100 E BATES AVE
+Contractor: 
+Valuation: 225000.0
 Units: </description>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -502,6 +502,34 @@ Units: </description>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">CO|aurora|23-2302049-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |BLDG 6 SELF STORAGE OUTBUILDING NEW BUILD</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 23-2302049-000-00
+Issued: 2026-03-19
+Address: 22044 E ATLANTIC PL
+Contractor: 
+Valuation: 434618.0
+Units: </description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|23-2302017-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | SELF STORAGE OUTBUILDING NEW BUILT BLDG 7</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 23-2302017-000-00
+Issued: 2026-03-19
+Address: 22052 E ATLANTIC PL
+Contractor: 
+Valuation: 434618.0
+Units: </description>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|23-2301326-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | BLDG 9 SELF STORAGE OUTBUILDING NEW BUILT</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -524,34 +552,6 @@ Score: 30
 Permit: 23-2301322-000-00
 Issued: 2026-03-19
 Address: 22054 E ATLANTIC PL
-Contractor: 
-Valuation: 434618.0
-Units: </description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|23-2302017-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | SELF STORAGE OUTBUILDING NEW BUILT BLDG 7</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 23-2302017-000-00
-Issued: 2026-03-19
-Address: 22052 E ATLANTIC PL
-Contractor: 
-Valuation: 434618.0
-Units: </description>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|23-2302049-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |BLDG 6 SELF STORAGE OUTBUILDING NEW BUILD</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 23-2302049-000-00
-Issued: 2026-03-19
-Address: 22044 E ATLANTIC PL
 Contractor: 
 Valuation: 434618.0
 Units: </description>
@@ -797,6 +797,174 @@ Units: </description>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2577617-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577617-000-00
+Issued: 2025-12-18
+Address: 15522 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577616-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577616-000-00
+Issued: 2025-12-18
+Address: 15522 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577615-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577615-000-00
+Issued: 2025-12-18
+Address: 15520 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577614-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577614-000-00
+Issued: 2025-12-18
+Address: 15520 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577606-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577606-000-00
+Issued: 2025-12-18
+Address: 15520 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577603-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577603-000-00
+Issued: 2025-12-18
+Address: 15520 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577602-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 ACCESIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577602-000-00
+Issued: 2025-12-18
+Address: 15520 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577600-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 ACCESIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577600-000-00
+Issued: 2025-12-18
+Address: 15520 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577599-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577599-000-00
+Issued: 2025-12-18
+Address: 15512 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577598-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577598-000-00
+Issued: 2025-12-18
+Address: 15512 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577597-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577597-000-00
+Issued: 2025-12-18
+Address: 15512 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2577596-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2577596-000-00
+Issued: 2025-12-18
+Address: 15512 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2577587-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -867,48 +1035,6 @@ Units: </description>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2577596-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577596-000-00
-Issued: 2025-12-18
-Address: 15512 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577597-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577597-000-00
-Issued: 2025-12-18
-Address: 15512 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577598-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577598-000-00
-Issued: 2025-12-18
-Address: 15512 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2577568-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -923,62 +1049,6 @@ Units: </description>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2577599-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577599-000-00
-Issued: 2025-12-18
-Address: 15512 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577600-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 ACCESIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577600-000-00
-Issued: 2025-12-18
-Address: 15520 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577602-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 ACCESIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577602-000-00
-Issued: 2025-12-18
-Address: 15520 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577603-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577603-000-00
-Issued: 2025-12-18
-Address: 15520 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2577564-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -987,76 +1057,6 @@ Score: 40
 Permit: 25-2577564-000-00
 Issued: 2025-12-18
 Address: 15510 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577606-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577606-000-00
-Issued: 2025-12-18
-Address: 15520 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577614-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577614-000-00
-Issued: 2025-12-18
-Address: 15520 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577615-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577615-000-00
-Issued: 2025-12-18
-Address: 15520 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577616-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577616-000-00
-Issued: 2025-12-18
-Address: 15522 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2577617-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2577617-000-00
-Issued: 2025-12-18
-Address: 15522 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -1191,76 +1191,6 @@ Units: </description>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2571229-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2571229-000-00
-Issued: 2025-11-12
-Address: 15540 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2571241-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2571241-000-00
-Issued: 2025-11-12
-Address: 15540 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2571238-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2571238-000-00
-Issued: 2025-11-12
-Address: 15540 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2571236-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2571236-000-00
-Issued: 2025-11-12
-Address: 15540 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2571230-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2571230-000-00
-Issued: 2025-11-12
-Address: 15540 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2571286-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -1339,6 +1269,76 @@ Score: 40
 Permit: 25-2571257-000-00
 Issued: 2025-11-12
 Address: 15542 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2571241-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2571241-000-00
+Issued: 2025-11-12
+Address: 15540 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2571238-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2571238-000-00
+Issued: 2025-11-12
+Address: 15540 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2571236-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2571236-000-00
+Issued: 2025-11-12
+Address: 15540 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2571230-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2571230-000-00
+Issued: 2025-11-12
+Address: 15540 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2571229-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2571229-000-00
+Issued: 2025-11-12
+Address: 15540 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -1709,40 +1709,12 @@ Units: </description>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2562706-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2562706-000-00
-Issued: 2025-09-24
-Address: 15530 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2562710-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2562713-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2562710-000-00
-Issued: 2025-09-24
-Address: 15530 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2562711-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2562711-000-00
+Permit: 25-2562713-000-00
 Issued: 2025-09-24
 Address: 15530 E 12TH AVE
 Contractor: 
@@ -1765,12 +1737,12 @@ Units: </description>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2562700-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <guid isPermaLink="false">CO|aurora|25-2562711-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2562700-000-00
+Permit: 25-2562711-000-00
 Issued: 2025-09-24
 Address: 15530 E 12TH AVE
 Contractor: 
@@ -1779,12 +1751,40 @@ Units: </description>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2562713-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2562710-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2562713-000-00
+Permit: 25-2562710-000-00
+Issued: 2025-09-24
+Address: 15530 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2562706-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2562706-000-00
+Issued: 2025-09-24
+Address: 15530 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2562700-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2562700-000-00
 Issued: 2025-09-24
 Address: 15530 E 12TH AVE
 Contractor: 
@@ -1933,6 +1933,90 @@ Units: </description>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2559675-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2559675-000-00
+Issued: 2025-09-15
+Address: 15550 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2559667-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2559667-000-00
+Issued: 2025-09-15
+Address: 15550 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2559657-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2559657-000-00
+Issued: 2025-09-15
+Address: 15550 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2559640-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2559640-000-00
+Issued: 2025-09-15
+Address: 15550 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2559630-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2559630-000-00
+Issued: 2025-09-15
+Address: 15550 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2559627-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2559627-000-00
+Issued: 2025-09-15
+Address: 15550 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2559624-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -1961,34 +2045,6 @@ Units: </description>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2559627-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2559627-000-00
-Issued: 2025-09-15
-Address: 15550 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2559630-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2559630-000-00
-Issued: 2025-09-15
-Address: 15550 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2559614-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2003,48 +2059,6 @@ Units: </description>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2559640-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2559640-000-00
-Issued: 2025-09-15
-Address: 15550 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2559657-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2559657-000-00
-Issued: 2025-09-15
-Address: 15550 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2559667-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2559667-000-00
-Issued: 2025-09-15
-Address: 15550 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2559610-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2-ACCESSIBLE FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2053,20 +2067,6 @@ Score: 40
 Permit: 25-2559610-000-00
 Issued: 2025-09-15
 Address: 15552 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2559675-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2559675-000-00
-Issued: 2025-09-15
-Address: 15550 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -2255,20 +2255,6 @@ Units: </description>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2540241-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |CCPS - POLTON ELEMENTARY SCHOOL - ACCESS CONTROL</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 25-2540241-000-00
-Issued: 2025-08-14
-Address: 2985 S OAKLAND ST
-Contractor: 
-Valuation: 8000.0
-Units: </description>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|25-2540359-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | TBC CORP - TIRE WAREHOUSE RACKING PLAN</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2283,14 +2269,42 @@ Units: </description>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2549846-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION  FROM MASTER WS-UNIT TYPE 2</title>
+      <guid isPermaLink="false">CO|aurora|25-2540241-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |CCPS - POLTON ELEMENTARY SCHOOL - ACCESS CONTROL</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 25-2540241-000-00
+Issued: 2025-08-14
+Address: 2985 S OAKLAND ST
+Contractor: 
+Valuation: 8000.0
+Units: </description>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2550156-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2549846-000-00
+Permit: 25-2550156-000-00
 Issued: 2025-08-12
-Address: 15572 E 12TH AVE
+Address: 15570 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2550154-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2550154-000-00
+Issued: 2025-08-12
+Address: 15570 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -2317,20 +2331,6 @@ Units: </description>
       <description>Category: MULTIFAMILY
 Score: 40
 Permit: 25-2550127-000-00
-Issued: 2025-08-12
-Address: 15570 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2550154-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2550154-000-00
 Issued: 2025-08-12
 Address: 15570 E 12TH AVE
 Contractor: 
@@ -2437,14 +2437,14 @@ Units: </description>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2550156-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <guid isPermaLink="false">CO|aurora|25-2549846-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION  FROM MASTER WS-UNIT TYPE 2</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2550156-000-00
+Permit: 25-2549846-000-00
 Issued: 2025-08-12
-Address: 15570 E 12TH AVE
+Address: 15572 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -2649,12 +2649,12 @@ Units: </description>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2546225-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2546231-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2546225-000-00
+Permit: 25-2546231-000-00
 Issued: 2025-07-24
 Address: 15576 E 12TH AVE
 Contractor: 
@@ -2663,12 +2663,12 @@ Units: </description>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2546231-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2546225-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2546231-000-00
+Permit: 25-2546225-000-00
 Issued: 2025-07-24
 Address: 15576 E 12TH AVE
 Contractor: 
@@ -2719,20 +2719,6 @@ Units: </description>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|24-2469583-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |AERO 70 BUILDING 1</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 50
-Permit: 24-2469583-000-00
-Issued: 2025-07-17
-Address: 25100 E SMITH RD
-Contractor: 
-Valuation: 36877514.0
-Units: </description>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|24-2469585-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | AERO 70 BUILDING 2</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2743,6 +2729,20 @@ Issued: 2025-07-17
 Address: 25150 E SMITH RD
 Contractor: 
 Valuation: 34743621.0
+Units: </description>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|24-2469583-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |AERO 70 BUILDING 1</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 50
+Permit: 24-2469583-000-00
+Issued: 2025-07-17
+Address: 25100 E SMITH RD
+Contractor: 
+Valuation: 36877514.0
 Units: </description>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
     </item>
@@ -2957,14 +2957,42 @@ Units: </description>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2539308-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION FROM MASTER REV-WS-UNIT TYPE 2</title>
+      <guid isPermaLink="false">CO|aurora|25-2539333-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE |  WEATHERSTONE APARTMENT RENOVATION FROM MASTER WS-UNIT TYPE 2</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2539308-000-00
+Permit: 25-2539333-000-00
 Issued: 2025-06-25
-Address: 15586 E 12TH AVE
+Address: 15584 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2539332-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION FROM MASTER WS-UNIT TYPE 2</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2539332-000-00
+Issued: 2025-06-25
+Address: 15584 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2539328-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION FROM MASTER WS-UNIT TYPE 2</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2539328-000-00
+Issued: 2025-06-25
+Address: 15584 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -2979,6 +3007,20 @@ Score: 40
 Permit: 25-2539325-000-00
 Issued: 2025-06-25
 Address: 15584 E 12TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2539308-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION FROM MASTER REV-WS-UNIT TYPE 2</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2539308-000-00
+Issued: 2025-06-25
+Address: 15586 E 12TH AVE
 Contractor: 
 Valuation: 15000.0
 Units: </description>
@@ -3055,96 +3097,12 @@ Units: </description>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2539328-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION FROM MASTER WS-UNIT TYPE 2</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2539328-000-00
-Issued: 2025-06-25
-Address: 15584 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2539332-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WEATHERSTONE APARTMENT RENOVATION FROM MASTER WS-UNIT TYPE 2</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2539332-000-00
-Issued: 2025-06-25
-Address: 15584 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2539333-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |  WEATHERSTONE APARTMENT RENOVATION FROM MASTER WS-UNIT TYPE 2</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2539333-000-00
-Issued: 2025-06-25
-Address: 15584 E 12TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2537187-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2537187-000-00
-Issued: 2025-06-17
-Address: 15490 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2537191-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2537191-000-00
-Issued: 2025-06-17
-Address: 15490 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2537193-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2537208-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2537193-000-00
-Issued: 2025-06-17
-Address: 15490 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2537199-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATIONS</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2537199-000-00
+Permit: 25-2537208-000-00
 Issued: 2025-06-17
 Address: 15490 E 13TH AVE
 Contractor: 
@@ -3167,12 +3125,54 @@ Units: </description>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2537208-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2537199-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATIONS</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2537199-000-00
+Issued: 2025-06-17
+Address: 15490 E 13TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2537193-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2537208-000-00
+Permit: 25-2537193-000-00
+Issued: 2025-06-17
+Address: 15490 E 13TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2537191-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2537191-000-00
+Issued: 2025-06-17
+Address: 15490 E 13TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2537187-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER REV-WS-UNIT TYPE 3 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2537187-000-00
 Issued: 2025-06-17
 Address: 15490 E 13TH AVE
 Contractor: 
@@ -3307,54 +3307,12 @@ Units: </description>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2529028-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2529028-000-00
-Issued: 2025-05-22
-Address: 15470 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2529056-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2529093-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2529056-000-00
-Issued: 2025-05-22
-Address: 15470 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2529060-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2529060-000-00
-Issued: 2025-05-22
-Address: 15470 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2529066-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2529066-000-00
+Permit: 25-2529093-000-00
 Issued: 2025-05-22
 Address: 15470 E 13TH AVE
 Contractor: 
@@ -3377,12 +3335,54 @@ Units: </description>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2529093-000-00</guid>
+      <guid isPermaLink="false">CO|aurora|25-2529066-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 40
-Permit: 25-2529093-000-00
+Permit: 25-2529066-000-00
+Issued: 2025-05-22
+Address: 15470 E 13TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2529060-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2529060-000-00
+Issued: 2025-05-22
+Address: 15470 E 13TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2529056-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2529056-000-00
+Issued: 2025-05-22
+Address: 15470 E 13TH AVE
+Contractor: 
+Valuation: 15000.0
+Units: </description>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2529028-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 40
+Permit: 25-2529028-000-00
 Issued: 2025-05-22
 Address: 15470 E 13TH AVE
 Contractor: 
@@ -3504,16 +3504,16 @@ Units: </description>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|24-2481535-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WYNDHAM HOTELS - ECHO SUITES WITH TRASH ENCLOSURE</title>
+      <guid isPermaLink="false">CO|aurora|25-2518359-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | OVERLAND HIGH SCHOOL CAMPUS IMPROVEMENTS TEMP CONSTRUCTION TRAILER</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: COMMERCIAL
 Score: 50
-Permit: 24-2481535-000-00
+Permit: 25-2518359-000-00
 Issued: 2025-04-29
-Address: 18800 E 32ND PKWY
+Address: 12300 E JEWELL AVE
 Contractor: 
-Valuation: 10177360.0
+Valuation: 60000000.0
 Units: </description>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
     </item>
