@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2536175-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | KING SOOPERS</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 50
+Permit: 25-2536175-000-00
+Issued: 2026-08-24
+Address: 21900 E 56TH AVE
+Contractor: 
+Valuation: 15000000.0
+Units: </description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2519410-000-00</guid>
       <title>[Aurora] BUILDINGONLINE |DEN1-DC3 STORAGE USE BUILDING - CORE AND SHELL</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>

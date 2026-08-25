@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2536175-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | KING SOOPERS</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 50
+Permit: 25-2536175-000-00
+Issued: 2026-08-24
+Address: 21900 E 56TH AVE
+Contractor: 
+Valuation: 15000000.0
+Units: </description>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2562256-000-00</guid>
       <title>[Aurora] ALTA METRO CENTER - BUILDING D</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3502,20 +3516,6 @@ Contractor:
 Valuation: 7000.0
 Units: </description>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2518359-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | OVERLAND HIGH SCHOOL CAMPUS IMPROVEMENTS TEMP CONSTRUCTION TRAILER</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 50
-Permit: 25-2518359-000-00
-Issued: 2025-04-29
-Address: 12300 E JEWELL AVE
-Contractor: 
-Valuation: 60000000.0
-Units: </description>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
