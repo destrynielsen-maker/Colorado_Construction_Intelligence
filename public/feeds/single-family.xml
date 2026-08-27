@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2630853-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-STELLA-AH-2021 ELEV-C GFA-88K AC CKTOP-52K WH-200K WC-2.5 BSMT-NONE-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2630853-000-00
+Issued: 2026-08-26
+Address: 3261 N CATAWBA WAY
+Contractor: 
+Valuation: 204855.0
+Units: </description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2627689-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-STELLA-AH-2021 ELEV-D GFA-88K AC CKTOP-52K WH- 200K WC-2.5 NO BSMT CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2627689-000-00
+Issued: 2026-08-26
+Address: 3274 N CATAWBA WAY
+Contractor: 
+Valuation: 204855.0
+Units: </description>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2646762-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-DA54-OR-2021 ELEV-A (2)GFA-80K/40K (2)AC FPL-25K CKTP-25K WH-ELEC WC-5 FIN FULL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3475,34 +3503,6 @@ Issued: 2026-06-08
 Address: 2324 S HALEYVILLE WAY
 Contractor: 
 Valuation: 144900.0
-Units: </description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2620148-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1868-HR-2021 ELEV-FH HEAT PUMP-26K AC WH-ELEC WC-3 BSMT-NONE-CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2620148-000-00
-Issued: 2026-06-08
-Address: 2304 S HALEYVILLE WAY
-Contractor: 
-Valuation: 196140.0
-Units: </description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2620147-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1868-HR-2021 ELEV-HC HEAT PUMP-36K/33K AC WH-ELEC WC-3 BSMT-NONE-CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2620147-000-00
-Issued: 2026-06-08
-Address: 2322 S HALEYVILLE WAY
-Contractor: 
-Valuation: 196140.0
 Units: </description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
     </item>
