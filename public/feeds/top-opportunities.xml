@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2648139-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | MWI ANIMAL WAREHOUSE - FIRE ALARM - INSTALL 3 DUCT DETECTORS, 3 MODULES AND 3 TEST SWITCHES.</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2648139-000-00
+Issued: 2026-08-27
+Address: 15845 E 32ND AVE
+Contractor: 
+Valuation: 5400.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2615168-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | AURORA ANIMAL SHELTER | ***ONLY FOR THE ANIMAL SHELTER BUILDING***</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3496,20 +3510,6 @@ Units: </description>
       <description>Category: MULTIFAMILY
 Score: 40
 Permit: 25-2526489-000-00
-Issued: 2025-05-08
-Address: 15460 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2526474-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE |FROM MASTER WS-UNIT TYPE 1 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2526474-000-00
 Issued: 2025-05-08
 Address: 15460 E 13TH AVE
 Contractor: 

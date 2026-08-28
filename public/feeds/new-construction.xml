@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2648139-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | MWI ANIMAL WAREHOUSE - FIRE ALARM - INSTALL 3 DUCT DETECTORS, 3 MODULES AND 3 TEST SWITCHES.</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2648139-000-00
+Issued: 2026-08-27
+Address: 15845 E 32ND AVE
+Contractor: 
+Valuation: 5400.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2646800-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-234.2504-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT-NONE-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2646800-000-00
+Issued: 2026-08-27
+Address: 20247 E 56TH PL
+Contractor: 
+Valuation: 263865.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2646798-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-237.2651-MC-2021 ELEV-C GFA-79K AC CKTOP-15K WH-200K WC-3.5 FULL FIN BSMT-FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2646798-000-00
+Issued: 2026-08-27
+Address: 24754 E MONTANA PL
+Contractor: 
+Valuation: 381360.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2615168-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | AURORA ANIMAL SHELTER | ***ONLY FOR THE ANIMAL SHELTER BUILDING***</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3465,48 +3507,6 @@ Contractor:
 Valuation: 189630.0
 Units: </description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|24-2469773-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D949-AH-2021 ELEV-A GFA-60K AC CKTOP-56K WH-199K OVEN-140K WC-2 BSMT-NONE CS/SOG***SITE PLAN APPROVED AFTER 06/01/07***</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 24-2469773-000-00
-Issued: 2026-06-11
-Address: 3972 N HALEYVILLE ST
-Contractor: 
-Valuation: 161490.0
-Units: </description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2627889-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1964-PP-2021 ELEV-A GFA-79K AC WH-200K WC-3.5 FULL FIN BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2627889-000-00
-Issued: 2026-06-10
-Address: 5690 N IRELAND ST
-Contractor: 
-Valuation: 283815.0
-Units: </description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2627888-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 NO BSMT CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2627888-000-00
-Issued: 2026-06-10
-Address: 5680 N IRELAND ST
-Contractor: 
-Valuation: 197925.0
-Units: </description>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

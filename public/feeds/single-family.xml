@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2646800-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-234.2504-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT-NONE-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2646800-000-00
+Issued: 2026-08-27
+Address: 20247 E 56TH PL
+Contractor: 
+Valuation: 263865.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2646798-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-237.2651-MC-2021 ELEV-C GFA-79K AC CKTOP-15K WH-200K WC-3.5 FULL FIN BSMT-FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2646798-000-00
+Issued: 2026-08-27
+Address: 24754 E MONTANA PL
+Contractor: 
+Valuation: 381360.0
+Units: </description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2630853-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-STELLA-AH-2021 ELEV-C GFA-88K AC CKTOP-52K WH-200K WC-2.5 BSMT-NONE-CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3475,34 +3503,6 @@ Issued: 2026-06-08
 Address: 5671 N KIRK CT
 Contractor: 
 Valuation: 214410.0
-Units: </description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2624110-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TOL-LANDER-OR-2021 ELEV-MID CENTURY MODERN GFA-100K/100K AC(2) FPL-35K CKTOP-65K FIRE PIT 40K WH-199K WC-5 WLKOUT UNFIN BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2624110-000-00
-Issued: 2026-06-08
-Address: 28293 E CANYON PL
-Contractor: 
-Valuation: 469980.0
-Units: </description>
-      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2620149-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1360-HR-2021 ELEV-CR HEAT PUMP-25K AC WH-ELEC WC-3 NO BSMT CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2620149-000-00
-Issued: 2026-06-08
-Address: 2324 S HALEYVILLE WAY
-Contractor: 
-Valuation: 144900.0
 Units: </description>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
     </item>
