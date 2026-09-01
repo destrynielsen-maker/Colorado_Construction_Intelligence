@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2646799-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-139.1818-MC-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-3.5 FULL FIN BSMT-FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2646799-000-00
+Issued: 2026-08-31
+Address: 24724 E MONTANA PL
+Contractor: 
+Valuation: 337995.0
+Units: </description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2647820-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1762-WI-2021 ELEV-C GFA-79K AC FPL-25K CKTOP-15K WH-200K WC-2.5 NO BSMT CS/FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2647820-000-00
+Issued: 2026-08-31
+Address: 24222 E 52ND DR
+Contractor: 
+Valuation: 185010.0
+Units: </description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2648139-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | MWI ANIMAL WAREHOUSE - FIRE ALARM - INSTALL 3 DUCT DETECTORS, 3 MODULES AND 3 TEST SWITCHES.</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3477,34 +3505,6 @@ Issued: 2026-06-11
 Address: 3992 N HALEYVILLE ST
 Contractor: 
 Valuation: 236040.0
-Units: </description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|24-2475275-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D903-AH-2021 ELEV-C GFA-60K AC CKTP-56K WH-199K WC-3 BSMT-NONE CS/SOG **SITE PLAN APPROVED AFTER 06/01/2007**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 24-2475275-000-00
-Issued: 2026-06-11
-Address: 4012 N HALEYVILLE ST
-Contractor: 
-Valuation: 196875.0
-Units: </description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|24-2475260-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D921-AH-2021 ELEV- B GFA-80K AC CKTP-56K WH-199K OPT MBR EXT 59 SF WC-2 BSMT-NONE CS/SOG **SITE PLAN APPROVED AFTER 06/01/2007**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 24-2475260-000-00
-Issued: 2026-06-11
-Address: 4032 N HALEYVILLE ST
-Contractor: 
-Valuation: 189630.0
 Units: </description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>
