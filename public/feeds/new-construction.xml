@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2619229-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LSH-4902-AH-2021 ELEV-A GFA-100K AC FPL-0K CKTOP-54K WH-160K WC-3 PARTIAL UNFINISHED BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2619229-000-00
-Issued: 2026-09-01
-Address: 24436 E 35TH DR
-Contractor: 
-Valuation: 251055.0
-Units: </description>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2647551-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-973CO-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-4 UNFINISHED BSMT-PARTIAL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -29,6 +15,20 @@ Issued: 2026-09-01
 Address: 22360 E 46TH AVE
 Contractor: 
 Valuation: 271110.0
+Units: </description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2619229-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LSH-4902-AH-2021 ELEV-A GFA-100K AC FPL-0K CKTOP-54K WH-160K WC-3 PARTIAL UNFINISHED BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2619229-000-00
+Issued: 2026-09-01
+Address: 24436 E 35TH DR
+Contractor: 
+Valuation: 251055.0
 Units: </description>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
     </item>
