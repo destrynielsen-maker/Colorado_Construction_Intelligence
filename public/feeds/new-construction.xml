@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2647910-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-C351035D4B-AH-2021 ELEV-D+ GFA-66K AC CKTOP-52K WH-200K WC-2 NO BSMT CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2647910-000-00
-Issued: 2026-09-02
-Address: 3288 N DUQUESNE WAY
-Contractor: 
-Valuation: 189315.0
-Units: </description>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2647914-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-C351035D4B-AH-2021 ELEV-D GFA-66K AC CKTOP- 52K WH-200K WC-2 NO BSMT CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -27,6 +13,20 @@ Score: 15
 Permit: 26-2647914-000-00
 Issued: 2026-09-02
 Address: 3278 N DUQUESNE WAY
+Contractor: 
+Valuation: 189315.0
+Units: </description>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2647910-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-C351035D4B-AH-2021 ELEV-D+ GFA-66K AC CKTOP-52K WH-200K WC-2 NO BSMT CS/FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2647910-000-00
+Issued: 2026-09-02
+Address: 3288 N DUQUESNE WAY
 Contractor: 
 Valuation: 189315.0
 Units: </description>
