@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2648492-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B986-AH-2021 ELEV-B (2)GFA-110K/45K (2)AC WH-180K WC-3 UNFINISHED FULL BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2648492-000-00
+Issued: 2026-09-03
+Address: 24146 E 35TH DR
+Contractor: 
+Valuation: 324975.0
+Units: </description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2647914-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-C351035D4B-AH-2021 ELEV-D GFA-66K AC CKTOP- 52K WH-200K WC-2 NO BSMT CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2050,7 +2064,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2635292-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-WI-2021 ELEV- B GFA-79K AC CKTOP-15K WH-200K WC-2.5  CS/FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-WI-2021 ELEV- B GFA-79K AC WH-200K WC-2.5  CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3489,20 +3503,6 @@ Issued: 2026-06-09
 Address: 28283 E CANYON PL
 Contractor: 
 Valuation: 345030.0
-Units: </description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2620599-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED MCS-3621-PP-2021 ELEV-E GFA-49K AC CKTOP-50K WH-180K WC-2.5 UNFIN BSMT -FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2620599-000-00
-Issued: 2026-06-09
-Address: 5812 N PERTH ST
-Contractor: 
-Valuation: 211470.0
 Units: </description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
