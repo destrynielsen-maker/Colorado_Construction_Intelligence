@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2619513-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DRH-1895-HU-2021 ELEV-C GFA-58K AC CKTOP-45K WH-160K WC-3 NO BSMT-CS/FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2619513-000-00
+Issued: 2026-09-08
+Address: 714 N TEMPE ST
+Contractor: 
+Valuation: 198975.0
+Units: </description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2648492-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B986-AH-2021 ELEV-B (2)GFA-110K/45K (2)AC WH-180K WC-3 UNFINISHED FULL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3489,20 +3503,6 @@ Issued: 2026-06-09
 Address: 5417 N FLAT ROCK WAY
 Contractor: 
 Valuation: 253890.0
-Units: </description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2624035-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TOL-CALHAN-OR-2021 ELEV-MODERN COTTAGE GFA-80K/60K AC (2) FPL-35K CKTOP-65K FIRE PIT-40K WH-199K WC-4 FULL UNFIN BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2624035-000-00
-Issued: 2026-06-09
-Address: 28283 E CANYON PL
-Contractor: 
-Valuation: 345030.0
 Units: </description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
