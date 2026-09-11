@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2540774-000-00</guid>
+      <title>[Aurora] BUILDING ONLINE| COLORADO FREEDOM MEMORIAL VISITORS CENTER</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 45
+Permit: 25-2540774-000-00
+Issued: 2026-09-10
+Address: 700 N TELLURIDE ST
+Contractor: 
+Valuation: 6499888.0
+Units: </description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2649192-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-239.2390-MC-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-3.5 UNFINISHED FULL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2344,7 +2358,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2635287-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3491,20 +3505,6 @@ Issued: 2026-06-18
 Address: 20551 E 63RD DR
 Contractor: 
 Valuation: 16000000.0
-Units: </description>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2631026-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-39206-PP-2021 ELEV-B GFA-49K AC CKTP-65K WH-180K WC-3 FULL UNFINISHED BSMT- FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2631026-000-00
-Issued: 2026-06-18
-Address: 20244 E 59TH AVE
-Contractor: 
-Valuation: 246015.0
 Units: </description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
     </item>
