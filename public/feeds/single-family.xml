@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2638556-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED PUL-3520-1-HT-2021 ELEV-B GFA-51K AC CKTP-60K WH-160K WC-3 FIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2638556-000-00
+Issued: 2026-09-14
+Address: 25282 E EVANS DR
+Contractor: 
+Valuation: 295470.0
+Units: </description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2649192-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-239.2390-MC-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-3.5 UNFINISHED FULL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3489,20 +3503,6 @@ Issued: 2026-06-11
 Address: 3992 N HALEYVILLE ST
 Contractor: 
 Valuation: 236040.0
-Units: </description>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|24-2475275-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D903-AH-2021 ELEV-C GFA-60K AC CKTP-56K WH-199K WC-3 BSMT-NONE CS/SOG **SITE PLAN APPROVED AFTER 06/01/2007**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 24-2475275-000-00
-Issued: 2026-06-11
-Address: 4012 N HALEYVILLE ST
-Contractor: 
-Valuation: 196875.0
 Units: </description>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
     </item>

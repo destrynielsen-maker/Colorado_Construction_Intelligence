@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2611375-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | DUTCH BROS COFFEE</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 35
+Permit: 26-2611375-000-00
+Issued: 2026-09-14
+Address: 5858 S AURORA PKWY
+Contractor: 
+Valuation: 950668.0
+Units: </description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2540774-000-00</guid>
       <title>[Aurora] BUILDING ONLINE| COLORADO FREEDOM MEMORIAL VISITORS CENTER</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
