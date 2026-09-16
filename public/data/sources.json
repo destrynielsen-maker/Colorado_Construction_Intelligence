@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:59:06+00:00",
+  "generated_at": "2026-09-16T11:50:12+00:00",
   "sources": [
     {
       "source": "Aurora",
@@ -7,16 +7,16 @@
       "technical_status": "ok",
       "freshness_status": "fresh",
       "volume_status": "normal",
-      "records_seen": 26568,
-      "qualifying_records": 1973,
-      "newest_permit_date": "2026-09-14",
+      "records_seen": 26668,
+      "qualifying_records": 1980,
+      "newest_permit_date": "2027-03-15",
       "oldest_permit_date": "2025-03-16",
-      "days_since_newest_permit": 2,
+      "days_since_newest_permit": -180,
       "freshness_threshold_days": 10,
-      "previous_records_seen": 26628,
-      "record_count_change_pct": -0.2,
-      "last_attempt_at": "2026-09-16T04:59:06+00:00",
-      "last_success_at": "2026-09-16T04:59:06+00:00",
+      "previous_records_seen": 26568,
+      "record_count_change_pct": 0.4,
+      "last_attempt_at": "2026-09-16T11:50:12+00:00",
+      "last_success_at": "2026-09-16T11:50:12+00:00",
       "cached_data_available": true,
       "source_url": "https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44",
       "note": "Official City of Aurora Building Permits ArcGIS layer; rolling ~18 months"
