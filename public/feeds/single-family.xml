@@ -19,20 +19,6 @@ Units: </description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2651670-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC213-PP-2021 ELEV-A GFA-31K AC CKTP-65K WH-180K WC-3 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2651670-000-00
-Issued: 2026-09-15
-Address: 5735 N INDIGO ROSE ST
-Contractor: 
-Valuation: 166005.0
-Units: </description>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2651672-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC214-PP-2021 ELEV-B GFA-34K AC CKTP-65K WH-180K WC-3 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -61,16 +47,16 @@ Units: </description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2557466-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED EPI-2212 BLD1-WI-2021 ELEV-B GFA-60K AC WH-199K WC-2.5 BSMT-NONE CS/SOG *SITE PLAN APPROVED AFTER 06/01/2007*</title>
+      <guid isPermaLink="false">CO|aurora|26-2651670-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC213-PP-2021 ELEV-A GFA-31K AC CKTP-65K WH-180K WC-3 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 25-2557466-000-00
+Permit: 26-2651670-000-00
 Issued: 2026-09-15
-Address: 24176 E 53RD DR
+Address: 5735 N INDIGO ROSE ST
 Contractor: 
-Valuation: 171675.0
+Valuation: 166005.0
 Units: </description>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -83,6 +69,20 @@ Score: 15
 Permit: 25-2557467-000-00
 Issued: 2026-09-15
 Address: 24196 E 53RD DR
+Contractor: 
+Valuation: 171675.0
+Units: </description>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2557466-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED EPI-2212 BLD1-WI-2021 ELEV-B GFA-60K AC WH-199K WC-2.5 BSMT-NONE CS/SOG *SITE PLAN APPROVED AFTER 06/01/2007*</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 25-2557466-000-00
+Issued: 2026-09-15
+Address: 24176 E 53RD DR
 Contractor: 
 Valuation: 171675.0
 Units: </description>
