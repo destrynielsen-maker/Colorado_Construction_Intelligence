@@ -5,30 +5,44 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2619520-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DRH-1543-HU-2021 ELEV-A GFA-39K AC CKTOP-45K WH-160K WC-3 NO BSMT-CS/FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2652410-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1945-GV-2021 ELEV-BT 2 GFA-24K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2619520-000-00
+Permit: 26-2652410-000-00
 Issued: 2026-09-17
-Address: 718 N TEMPE ST
+Address: 4944 N TEMPE ST
 Contractor: 
-Valuation: 162015.0
+Valuation: 176715.0
 Units: </description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2619516-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DRH-2090-HU-2021 ELEV-A GFA-58K AC CKTOP-45K WH-160K WC-3 NO BSMT-CS/FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2652409-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1942-GV-2021 ELEV-BT 2 GFA-23K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2619516-000-00
+Permit: 26-2652409-000-00
 Issued: 2026-09-17
-Address: 716 N TEMPE ST
+Address: 4942 N TEMPE ST
 Contractor: 
-Valuation: 219450.0
+Valuation: 159915.0
+Units: </description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2652408-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1941-GV-2021 ELEV-BT 7 GFA-21K AC WH-ELEC OVEN-32K WC-2 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2652408-000-00
+Issued: 2026-09-17
+Address: 4934 N TEMPE ST
+Contractor: 
+Valuation: 130830.0
 Units: </description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -61,20 +75,6 @@ Units: </description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2652402-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1942-GV-2021 ELEV-BT 7 GFA-23K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2652402-000-00
-Issued: 2026-09-17
-Address: 4922 N TEMPE ST
-Contractor: 
-Valuation: 159915.0
-Units: </description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2652404-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1943-GV-2021 ELEV-BT 3 GFA-24K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -103,44 +103,44 @@ Units: </description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2652408-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1941-GV-2021 ELEV-BT 7 GFA-21K AC WH-ELEC OVEN-32K WC-2 BSMT-NONE CS/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2652402-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1942-GV-2021 ELEV-BT 7 GFA-23K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2652408-000-00
+Permit: 26-2652402-000-00
 Issued: 2026-09-17
-Address: 4934 N TEMPE ST
-Contractor: 
-Valuation: 130830.0
-Units: </description>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2652409-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1942-GV-2021 ELEV-BT 2 GFA-23K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2652409-000-00
-Issued: 2026-09-17
-Address: 4942 N TEMPE ST
+Address: 4922 N TEMPE ST
 Contractor: 
 Valuation: 159915.0
 Units: </description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2652410-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1945-GV-2021 ELEV-BT 2 GFA-24K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2619520-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DRH-1543-HU-2021 ELEV-A GFA-39K AC CKTOP-45K WH-160K WC-3 NO BSMT-CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2652410-000-00
+Permit: 26-2619520-000-00
 Issued: 2026-09-17
-Address: 4944 N TEMPE ST
+Address: 718 N TEMPE ST
 Contractor: 
-Valuation: 176715.0
+Valuation: 162015.0
+Units: </description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2619516-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DRH-2090-HU-2021 ELEV-A GFA-58K AC CKTOP-45K WH-160K WC-3 NO BSMT-CS/FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2619516-000-00
+Issued: 2026-09-17
+Address: 716 N TEMPE ST
+Contractor: 
+Valuation: 219450.0
 Units: </description>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
     </item>
