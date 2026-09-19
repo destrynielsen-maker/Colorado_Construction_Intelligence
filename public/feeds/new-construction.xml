@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2653134-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-784CO-GV-2021 ELEV-B GFA-80K AC FPL-40K CKTOP- 32K WH-40K WC-3 FULL UNFIN BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2653134-000-00
+Issued: 2026-09-18
+Address: 22374 E 49TH PL
+Contractor: 
+Valuation: 275835.0
+Units: </description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2653126-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B986-AH-2021 ELEV-B GFA-45K/110K AC 2 WH1-180K WC-5 FULL UNFIN WO BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2653126-000-00
+Issued: 2026-09-18
+Address: 24415 E 35TH DR
+Contractor: 
+Valuation: 324975.0
+Units: </description>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2652410-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1945-GV-2021 ELEV-BT 2 GFA-24K AC CKTP-32K WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -2400,7 +2428,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2638322-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-3.5 FULL FINISHED BSMT FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC WH-200K WC-3.5 FULL FINISHED BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -2414,7 +2442,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2638321-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1964-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1964-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3475,34 +3503,6 @@ Issued: 2026-07-01
 Address: 21862 E 46TH PL
 Contractor: 
 Valuation: 204120.0
-Units: </description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2628750-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D854-OR-2021 ELEV-D GFA-80K AC FPL-25K CKTOP-56K WH-ELEC WC-4 FULL FIN BSMT-FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2628750-000-00
-Issued: 2026-07-01
-Address: 28233 E CANYON PL
-Contractor: 
-Valuation: 460950.0
-Units: </description>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2626287-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D658-OR-2021 ELEV-C GFA-60K/40K AC(2) FPL-25K CKTOP-56K WH-ELEC WC-5 FIN FULL BSMT-FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2626287-000-00
-Issued: 2026-07-01
-Address: 28213 E CANYON PL
-Contractor: 
-Valuation: 439740.0
 Units: </description>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
     </item>
