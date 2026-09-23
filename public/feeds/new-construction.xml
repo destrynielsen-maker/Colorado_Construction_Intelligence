@@ -47,20 +47,6 @@ Units: </description>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2652683-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-235.2585-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2652683-000-00
-Issued: 2026-09-21
-Address: 5682 N JEBEL CT
-Contractor: 
-Valuation: 270165.0
-Units: </description>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2653680-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED PUL-4021-3-HT-2021 ELEV-C GFA-50K AC CKTP-60K WH-160K WC-2 UNFINISHED BSMT-PARTIAL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -71,6 +57,20 @@ Issued: 2026-09-21
 Address: 25302 E EVANS DR
 Contractor: 
 Valuation: 223965.0
+Units: </description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2652683-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-235.2585-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2652683-000-00
+Issued: 2026-09-21
+Address: 5682 N JEBEL CT
+Contractor: 
+Valuation: 270165.0
 Units: </description>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
     </item>
