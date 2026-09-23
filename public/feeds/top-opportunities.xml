@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2633798-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | APS - FREEZER WAREHOUSE | RACKING SYSTEM - STRUCTURAL &amp; FLS</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 40
+Permit: 26-2633798-000-00
+Issued: 2026-09-22
+Address: 60 N AIRPORT BLVD
+Contractor: 
+Valuation: 2486755.2
+Units: </description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2615138-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | GROVE AT PINEWOOD APARTMENT CONDOMINIUM</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 55
+Permit: 26-2615138-000-00
+Issued: 2026-09-21
+Address: 225 S JAMAICA WAY
+Contractor: 
+Valuation: 9745652.0
+Units: </description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2653040-000-00</guid>
       <title>[Aurora] BUILDINGONLINE |EMPIRE BEAUTY SCHOOL | STATED LIFE SAFETY ISSUES:FIRE ALARM</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3488,34 +3516,6 @@ Contractor:
 Valuation: 1500000.0
 Units: </description>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2506685-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | PROJECT WATERFALL - FIRE PUMP C&amp;S</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 40
-Permit: 25-2506685-000-00
-Issued: 2025-05-15
-Address: 25340 E 52ND AVE
-Contractor: 
-Valuation: 2500000.0
-Units: </description>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2526503-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2526503-000-00
-Issued: 2025-05-08
-Address: 15460 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

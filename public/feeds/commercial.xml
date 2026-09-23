@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2633798-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | APS - FREEZER WAREHOUSE | RACKING SYSTEM - STRUCTURAL &amp; FLS</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 40
+Permit: 26-2633798-000-00
+Issued: 2026-09-22
+Address: 60 N AIRPORT BLVD
+Contractor: 
+Valuation: 2486755.2
+Units: </description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2653040-000-00</guid>
       <title>[Aurora] BUILDINGONLINE |EMPIRE BEAUTY SCHOOL | STATED LIFE SAFETY ISSUES:FIRE ALARM</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>

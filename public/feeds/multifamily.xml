@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2615138-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | GROVE AT PINEWOOD APARTMENT CONDOMINIUM</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 55
+Permit: 26-2615138-000-00
+Issued: 2026-09-21
+Address: 225 S JAMAICA WAY
+Contractor: 
+Valuation: 9745652.0
+Units: </description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2562256-000-00</guid>
       <title>[Aurora] ALTA METRO CENTER - BUILDING D</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
