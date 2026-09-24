@@ -2106,7 +2106,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2638543-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-1469-WI-2021 ELEV-A GFA-79K AC CKTP-15K WH-200K WC-2.5 BSMT-NONE CS/FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-1469-WI-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -2736,7 +2736,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2635334-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-149.2294-WI-2021 ELEV-A GFA-79K AC FPL-25K CKTOP-15K WH-200K WC-3.5 UNFIN BSMT- FULL FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-149.2294-WI-2021 ELEV-A GFA-79K AC FPL-25K CKTOP-15K BBQ-10K WH-200K WC-3.5 UNFIN BSMT- FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -2750,7 +2750,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2635333-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1762-WI-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-3.5 FIN BSMT-FULL FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1762-WI-2021 ELEV-A GFA-79K AC WH-200K WC-3.5 FIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
