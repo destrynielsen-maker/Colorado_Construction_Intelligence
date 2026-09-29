@@ -33,6 +33,48 @@ Units: </description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2654886-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-4232-OR-2021 ELEV-A (2)GFA-64K/46K (2)AC FPL-45K CKTP-65K WH-199K WC-4 UNFIN BSMT-WALKOUT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654886-000-00
+Issued: 2026-09-28
+Address: 7846 S DEER PARK ST
+Contractor: 
+Valuation: 444360.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654878-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-2691-OR-2021 ELEV-A GFA-41K AC FPL-45K CKTP-65K WH-199K WC-3 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654878-000-00
+Issued: 2026-09-28
+Address: 28784 E CANYON PL
+Contractor: 
+Valuation: 282555.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654786-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-2519-OR-2021 ELEV-C GFA-40K AC FPL-45K CKTP-65K WH-199K WC-3 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654786-000-00
+Issued: 2026-09-28
+Address: 28774 E CANYON PL
+Contractor: 
+Valuation: 264495.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2634662-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC211-WI-2021 ELEV-B GFA-31K AC CKTP-65K WH-180K WC-3 NO BSMT-CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -85,48 +127,6 @@ Issued: 2026-09-28
 Address: 4744 N WENATCHEE CT
 Contractor: 
 Valuation: 148050.0
-Units: </description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2654886-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-4232-OR-2021 ELEV-A (2)GFA-64K/46K (2)AC FPL-45K CKTP-65K WH-199K WC-4 UNFIN BSMT-WALKOUT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2654886-000-00
-Issued: 2026-09-28
-Address: 7846 S DEER PARK ST
-Contractor: 
-Valuation: 444360.0
-Units: </description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2654786-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-2519-OR-2021 ELEV-C GFA-40K AC FPL-45K CKTP-65K WH-199K WC-3 UNFIN BSMT-FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2654786-000-00
-Issued: 2026-09-28
-Address: 28774 E CANYON PL
-Contractor: 
-Valuation: 264495.0
-Units: </description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2654878-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-2691-OR-2021 ELEV-A GFA-41K AC FPL-45K CKTP-65K WH-199K WC-3 UNFIN BSMT-FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2654878-000-00
-Issued: 2026-09-28
-Address: 28784 E CANYON PL
-Contractor: 
-Valuation: 282555.0
 Units: </description>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
     </item>
