@@ -5,6 +5,132 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2654889-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-3453-OR-2021 ELEV-A GFA-52K/42K AC-2 FPL-45K CKTOP-65K WH-199K WC-4 UNFIN BSMT- FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654889-000-00
+Issued: 2026-09-28
+Address: 28744 E CANYON PL
+Contractor: 
+Valuation: 362565.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654887-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-1961-OR-2021 ELEV-B GFA-46K AC FPL-45K CKTP-65K WH-199K WC-2 UNFIN BSMT- FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654887-000-00
+Issued: 2026-09-28
+Address: 28764 E CANYON PL
+Contractor: 
+Valuation: 205065.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2634662-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC211-WI-2021 ELEV-B GFA-31K AC CKTP-65K WH-180K WC-3 NO BSMT-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2634662-000-00
+Issued: 2026-09-28
+Address: 4732 N WENATCHEE CT
+Contractor: 
+Valuation: 140700.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2634659-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC214-WI-2021 ELEV-A GFA-36K AC CKTOP-65K WH-180K WC-3 NO BSMT-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2634659-000-00
+Issued: 2026-09-28
+Address: 4734 N WENATCHEE CT
+Contractor: 
+Valuation: 186060.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2634658-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC213-WI-2021 ELEV-B GFA-35K AC CKTP-65K WH-180K WC-3 NO BSMT-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2634658-000-00
+Issued: 2026-09-28
+Address: 4742 N WENATCHEE CT
+Contractor: 
+Valuation: 166005.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2634656-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-MC212-WI-2021 ELEV-A GFA-33K AC CKTP-65K WH-180K WC-3 NO BSMT-CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2634656-000-00
+Issued: 2026-09-28
+Address: 4744 N WENATCHEE CT
+Contractor: 
+Valuation: 148050.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654886-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-4232-OR-2021 ELEV-A (2)GFA-64K/46K (2)AC FPL-45K CKTP-65K WH-199K WC-4 UNFIN BSMT-WALKOUT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654886-000-00
+Issued: 2026-09-28
+Address: 7846 S DEER PARK ST
+Contractor: 
+Valuation: 444360.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654786-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-2519-OR-2021 ELEV-C GFA-40K AC FPL-45K CKTP-65K WH-199K WC-3 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654786-000-00
+Issued: 2026-09-28
+Address: 28774 E CANYON PL
+Contractor: 
+Valuation: 264495.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654878-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-2691-OR-2021 ELEV-A GFA-41K AC FPL-45K CKTP-65K WH-199K WC-3 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654878-000-00
+Issued: 2026-09-28
+Address: 28784 E CANYON PL
+Contractor: 
+Valuation: 282555.0
+Units: </description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2652282-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-4036-AH-2021 ELEV-B (2)GFA-60K/40K (2)AC FPL-25K CKTP-19K WH-199K OVEN-33K MUDROOM-72 SF WC-4 UNFIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -986,7 +1112,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2645753-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-139.1942-MC-2021 ELEV-A GFA-79K AC CKTP-15K WH-200K WC-3.5 FINISHED BSMT-FULL FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-139.1942-MC-2021 ELEV-A GFA-79K AC WH-200K WC-3.5 FINISHED BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -2932,7 +3058,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2635268-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1755-PP-2021 ELEV-B GFA-79K AC CKTOP-15K WH-200K WC-2.5 NO BSMT CS/FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1755-PP-2021 ELEV-B GFA-79K AC WH-200K WC-2.5 NO BSMT CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3377,134 +3503,6 @@ Contractor:
 Valuation: 154875.0
 Units: </description>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2516970-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D769-BY-2021 ELEV- D GFA 40K AC CKTOP 56K WH BTU 199K WC 3 NO BSMT CS/SOG** SITE APPROVED AFTER 6/1/07**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 25-2516970-000-00
-Issued: 2026-07-10
-Address: 535 S RICHFIELD ST
-Contractor: 
-Valuation: 152040.0
-Units: </description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2516967-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D770-BY-2021 ELEV- C GFA-60K AC CKTOP-56K WH 199K WC 3 BSMT - NONE CS/SOG **SITE APPROVED AFTER 6/1/07**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 25-2516967-000-00
-Issued: 2026-07-10
-Address: 541 S RICHFIELD ST
-Contractor: 
-Valuation: 154875.0
-Units: </description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2514194-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-DA71-AH-2021 ELEV-A GFA-40K AC CKTOP-56K WH-199K WC-3 NO BSMT CS/SOG**SITE PLAN APPROVED AFTER 6/1/2007**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 25-2514194-000-00
-Issued: 2026-07-10
-Address: 24071 E 30TH PL
-Contractor: 
-Valuation: 151515.0
-Units: </description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2514192-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-DA72-AH-2021 ELEV-A GFA-60K AC CKTOP-56K WH-199K WC-3 NO BSMT CS/SOG**SITE PLAN APPROVED AFTER 6/1/2007**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 25-2514192-000-00
-Issued: 2026-07-10
-Address: 24081 E 30TH PL
-Contractor: 
-Valuation: 157080.0
-Units: </description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2562236-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | ALTA METRO CENTER
-
-R-2 Occupancy 110009 SF</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 60
-Permit: 25-2562236-000-00
-Issued: 2026-07-09
-Address: 15205 E CENTER AVE
-Contractor: 
-Valuation: 18000000.0
-Units: </description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2634408-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-21221-PP-2021 ELEV-C GFA-26K AC CKTP-65K WH-180K WC-3 NO BSMT CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2634408-000-00
-Issued: 2026-07-09
-Address: 20339 E 57TH AVE
-Contractor: 
-Valuation: 147630.0
-Units: </description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2634407-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-21225-PP-2021 ELEV-A GFA-30K AC CKTP-65K WH-180K WC-3 NO BSMT CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2634407-000-00
-Issued: 2026-07-09
-Address: 20337 E 57TH AVE
-Contractor: 
-Valuation: 169365.0
-Units: </description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2626447-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED PUL-4021-3-HT-2021 ELEV-C GFA-50K AC CKTOP-60K WH-160K WC-2 PART UNFIN BSMT-FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2626447-000-00
-Issued: 2026-07-09
-Address: 25041 E EVANS DR
-Contractor: 
-Valuation: 223965.0
-Units: </description>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2631126-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | CHILDRENS HOSPITAL URGENT CARE EXTERIOR VENEER | SCOPE OF WORK INCLUDES:ARCHITECTURAL | REDO ALL SIDING ON THE BUILDING AS ORIGINAL SIDING IS FALLING OFF</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 40
-Permit: 26-2631126-000-00
-Issued: 2026-07-08
-Address: 23770 E SMOKY HILL RD
-Contractor: 
-Valuation: 3163000.0
-Units: </description>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
