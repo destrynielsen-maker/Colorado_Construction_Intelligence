@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2656804-000-00</guid>
+      <title>[Aurora] FIRE SPRINKLER CHILDRENS HOSPITAL ANSCHUTZ CAMPUS, MANUAL DRY STANDPIPE REPLACEMENT FOR GARAGE</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2656804-000-00
+Issued: 2026-09-29
+Address: 1420 N URSULA ST
+Contractor: 
+Valuation: 63280.0
+Units: </description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2633798-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | APS - FREEZER WAREHOUSE | RACKING SYSTEM - STRUCTURAL &amp; FLS</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3501,21 +3515,6 @@ Contractor:
 Valuation: 15000.0
 Units: </description>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2513185-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | WATERFALL - GATEHOUSE 620
-*** CO: B Occupancy  Area=6,875 SF ***</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 40
-Permit: 25-2513185-000-00
-Issued: 2025-05-15
-Address: 25301 E 48TH AVE
-Contractor: 
-Valuation: 1500000.0
-Units: </description>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

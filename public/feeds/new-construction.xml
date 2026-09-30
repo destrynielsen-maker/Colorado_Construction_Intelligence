@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2656804-000-00</guid>
+      <title>[Aurora] FIRE SPRINKLER CHILDRENS HOSPITAL ANSCHUTZ CAMPUS, MANUAL DRY STANDPIPE REPLACEMENT FOR GARAGE</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2656804-000-00
+Issued: 2026-09-29
+Address: 1420 N URSULA ST
+Contractor: 
+Valuation: 63280.0
+Units: </description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2654889-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-3453-OR-2021 ELEV-A GFA-52K/42K AC-2 FPL-45K CKTOP-65K WH-199K WC-4 UNFIN BSMT- FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3487,20 +3501,6 @@ Issued: 2026-07-10
 Address: 545 S RICHFIELD ST
 Contractor: 
 Valuation: 152040.0
-Units: </description>
-      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2516971-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D770-BY-2021 ELEV- D GFA 60K AC CKTOP 56K WHU 199K WC 3 NO BSMT CS/SOG **SITE PLAN APPROVED AFTER 6/1/07**</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 25-2516971-000-00
-Issued: 2026-07-10
-Address: 525 S RICHFIELD ST
-Contractor: 
-Valuation: 154875.0
 Units: </description>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
     </item>
