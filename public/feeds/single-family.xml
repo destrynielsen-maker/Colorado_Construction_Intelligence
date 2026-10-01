@@ -5,30 +5,16 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2652278-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-3504-AH-2021 ELEV-C GFA-100K AC FPL-25K CKTP-15K WH-199K OVEN-27K WC-4.5 FIN BSMT-FULL FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2652943-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-5016-AH-2021 ELEV-C GFA-60K/60K (2)AC FPL-25K CKTOP-19K WH-199K OVEN-33K WC-4.5 FULL UNFIN BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2652278-000-00
+Permit: 26-2652943-000-00
 Issued: 2026-09-30
-Address: 24541 E 33RD DR
+Address: 3485 N FLAT ROCK CT
 Contractor: 
-Valuation: 368655.0
-Units: </description>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2652279-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-3503-AH-2021 ELEV-B GFA-80K AC CKTP-19K WH-199K OVEN-33K WC=2.5 UNFIN BSMT-FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2652279-000-00
-Issued: 2026-09-30
-Address: 24521 E 33RD DR
-Contractor: 
-Valuation: 243285.0
+Valuation: 405510.0
 Units: </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -61,30 +47,30 @@ Units: </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2652943-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-5016-AH-2021 ELEV-C GFA-60K/60K (2)AC FPL-25K CKTOP-19K WH-199K OVEN-33K WC-4.5 FULL UNFIN BSMT FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2652279-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-3503-AH-2021 ELEV-B GFA-80K AC CKTP-19K WH-199K OVEN-33K WC=2.5 UNFIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2652943-000-00
+Permit: 26-2652279-000-00
 Issued: 2026-09-30
-Address: 3485 N FLAT ROCK CT
+Address: 24521 E 33RD DR
 Contractor: 
-Valuation: 405510.0
+Valuation: 243285.0
 Units: </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2636485-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-CELESTE-AH-2021 ELEV-B GFA-66K AC CKTP-52K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2652278-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-3504-AH-2021 ELEV-C GFA-100K AC FPL-25K CKTP-15K WH-199K OVEN-27K WC-4.5 FIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2636485-000-00
+Permit: 26-2652278-000-00
 Issued: 2026-09-30
-Address: 3255 N CATAWBA WAY
+Address: 24541 E 33RD DR
 Contractor: 
-Valuation: 168630.0
+Valuation: 368655.0
 Units: </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
@@ -99,6 +85,20 @@ Issued: 2026-09-30
 Address: 3201 N ELK WAY
 Contractor: 
 Valuation: 231840.0
+Units: </description>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2636485-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TAY-CELESTE-AH-2021 ELEV-B GFA-66K AC CKTP-52K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2636485-000-00
+Issued: 2026-09-30
+Address: 3255 N CATAWBA WAY
+Contractor: 
+Valuation: 168630.0
 Units: </description>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
     </item>
