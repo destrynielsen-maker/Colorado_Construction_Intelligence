@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2656974-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D250-AH-2021 ELEV-B GFA-60K/40K AC(2) FPL-25K CKTOP-25K WH-30K SUNROOM-192FT WC-3 UNFIN WLKOUT BSMT-FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2656974-000-00
-Issued: 2026-10-02
-Address: 24601 E 46TH AVE
-Contractor: 
-Valuation: 288750.0
-Units: </description>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2656997-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D250-AH-2021 ELEV-B GFA-60K/40K AC(2) FPL-25K CKTOP-25K WH-30K SUNROOM-192SF WC-4 FIN GL BSMT-FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -29,6 +15,20 @@ Issued: 2026-10-02
 Address: 24861 E 46TH AVE
 Contractor: 
 Valuation: 384930.0
+Units: </description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2656974-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D250-AH-2021 ELEV-B GFA-60K/40K AC(2) FPL-25K CKTOP-25K WH-30K SUNROOM-192FT WC-3 UNFIN WLKOUT BSMT-FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2656974-000-00
+Issued: 2026-10-02
+Address: 24601 E 46TH AVE
+Contractor: 
+Valuation: 288750.0
 Units: </description>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
     </item>
