@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2654268-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-139CO-GV-2021 ELEV-E GFA-60K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654268-000-00
+Issued: 2026-10-05
+Address: 3982 N TEMPE ST
+Contractor: 
+Valuation: 204120.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2654265-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-133CO-GV-2021 ELEV-D GFA-60K AC WH-ELEC WC-4 BSMT-NONE RAFT/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -15,20 +29,6 @@ Issued: 2026-10-05
 Address: 3960 N TEMPE ST
 Contractor: 
 Valuation: 204120.0
-Units: </description>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2654262-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-136CO-GV-2021 ELEV-D GFA-40K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2654262-000-00
-Issued: 2026-10-05
-Address: 3972 N TEMPE ST
-Contractor: 
-Valuation: 150780.0
 Units: </description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -47,16 +47,16 @@ Units: </description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2654268-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-139CO-GV-2021 ELEV-E GFA-60K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2654262-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-136CO-GV-2021 ELEV-D GFA-40K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2654268-000-00
+Permit: 26-2654262-000-00
 Issued: 2026-10-05
-Address: 3982 N TEMPE ST
+Address: 3972 N TEMPE ST
 Contractor: 
-Valuation: 204120.0
+Valuation: 150780.0
 Units: </description>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
     </item>
