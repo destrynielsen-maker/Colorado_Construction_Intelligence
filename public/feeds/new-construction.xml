@@ -5,6 +5,90 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2654265-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-133CO-GV-2021 ELEV-D GFA-60K AC WH-ELEC WC-4 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654265-000-00
+Issued: 2026-10-05
+Address: 3960 N TEMPE ST
+Contractor: 
+Valuation: 204120.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654262-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-136CO-GV-2021 ELEV-D GFA-40K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654262-000-00
+Issued: 2026-10-05
+Address: 3972 N TEMPE ST
+Contractor: 
+Valuation: 150780.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654264-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-138CO-GV-2021 ELEV-D GFA-40K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654264-000-00
+Issued: 2026-10-05
+Address: 3980 N TEMPE ST
+Contractor: 
+Valuation: 153720.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654268-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-139CO-GV-2021 ELEV-E GFA-60K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654268-000-00
+Issued: 2026-10-05
+Address: 3982 N TEMPE ST
+Contractor: 
+Valuation: 204120.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654261-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-136CO-GV-2021 ELEV-E GFA-40K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654261-000-00
+Issued: 2026-10-05
+Address: 3970 N TEMPE ST
+Contractor: 
+Valuation: 151410.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2654259-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-125-GV-2021 ELEV-A GFA-27K AC WH-ELEC WC-3 BSMT-NONE RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2654259-000-00
+Issued: 2026-10-05
+Address: 3962 N TEMPE ST
+Contractor: 
+Valuation: 141540.0
+Units: </description>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2656997-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D250-AH-2021 ELEV-B GFA-60K/40K AC(2) FPL-25K CKTOP-25K WH-30K SUNROOM-192SF WC-4 FIN GL BSMT-FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3417,90 +3501,6 @@ Issued: 2026-07-16
 Address: 24394 E 53RD AVE
 Contractor: 
 Valuation: 197925.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635291-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1964-WI-2021 ELEV- B GFA-79K AC CKTOP-15K WH-200K WC-3.5 FIN BSMT - FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635291-000-00
-Issued: 2026-07-16
-Address: 24414 E 53RD AVE
-Contractor: 
-Valuation: 283710.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635289-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-234.2504-PP-2021 ELEV-A GFA-79K AC FPL-25K WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635289-000-00
-Issued: 2026-07-16
-Address: 20524 E 57TH AVE
-Contractor: 
-Valuation: 263865.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635287-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635287-000-00
-Issued: 2026-07-16
-Address: 20218 E 56TH PL
-Contractor: 
-Valuation: 175455.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635286-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-3.5 FULL UNFIN BSMT-FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635286-000-00
-Issued: 2026-07-16
-Address: 20210 E 56TH PL
-Contractor: 
-Valuation: 197925.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635272-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635272-000-00
-Issued: 2026-07-16
-Address: 20288 E 56TH PL
-Contractor: 
-Valuation: 175455.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635268-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1755-PP-2021 ELEV-B GFA-79K AC WH-200K WC-2.5 NO BSMT CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635268-000-00
-Issued: 2026-07-16
-Address: 20320 E 56TH PL
-Contractor: 
-Valuation: 184170.0
 Units: </description>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
