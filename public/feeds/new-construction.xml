@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2658148-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B979-AH-2021 ELEV-A GFA-110K AC WH-180K WC-4 FULL FIN BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2658148-000-00
-Issued: 2026-10-08
-Address: 24165 E 35TH DR
-Contractor: 
-Valuation: 434385.0
-Units: </description>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2658159-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B986-AH-2021 ELEV-C (2)GFA-45K/110K (2)AC WH-180K WC-5 FULL FIN BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -29,6 +15,20 @@ Issued: 2026-10-08
 Address: 24243 E 36TH PL
 Contractor: 
 Valuation: 491295.0
+Units: </description>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2658148-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B979-AH-2021 ELEV-A GFA-110K AC WH-180K WC-4 FULL FIN BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2658148-000-00
+Issued: 2026-10-08
+Address: 24165 E 35TH DR
+Contractor: 
+Valuation: 434385.0
 Units: </description>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
     </item>
