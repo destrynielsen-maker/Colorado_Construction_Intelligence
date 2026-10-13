@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2656918-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | LOTUS SCHOOL OF EXCELENCE FIRE ALARM</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2656918-000-00
+Issued: 2026-10-12
+Address: 11001 E ALAMEDA AVE
+Contractor: 
+Valuation: 6500.0
+Units: </description>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2658264-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED BLH-2418-WI-2021 ELEV-A GFA-70K AC-1 WH-99K WC-3 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -1462,7 +1476,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2647820-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1762-WI-2021 ELEV-C GFA-79K AC FPL-25K CKTOP-15K WH-200K WC-2.5 NO BSMT CS/FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1762-WI-2021 ELEV-C GFA-79K AC FPL-25K WH-200K WC-2.5 NO BSMT CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3487,20 +3501,6 @@ Issued: 2026-07-16
 Address: 20236 E 57TH PL
 Contractor: 
 Valuation: 270165.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635337-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.2138-WI-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT-NONE CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635337-000-00
-Issued: 2026-07-16
-Address: 5207 N FULTONDALE ST
-Contractor: 
-Valuation: 224490.0
 Units: </description>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
