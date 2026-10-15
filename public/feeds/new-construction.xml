@@ -33,20 +33,6 @@ Units: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2658658-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-782CO-GV-2021 ELEV- A GFA-80K AC CKTOP-32K WH-40K WC-4 FIN WO BSMT - FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2658658-000-00
-Issued: 2026-10-14
-Address: 22114 E 49TH PL
-Contractor: 
-Valuation: 258510.0
-Units: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2659085-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-972CO-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-3 UNFIN BSMT-PARTIAL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -75,20 +61,6 @@ Units: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2659079-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-974CO-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-3 UNFIN BSMT-PARTIAL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2659079-000-00
-Issued: 2026-10-14
-Address: 22430 E 46TH AVE
-Contractor: 
-Valuation: 290955.0
-Units: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2659080-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-975-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-3 UNFIN BSMT-PARTIAL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -103,6 +75,20 @@ Units: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2659079-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-974CO-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-3 UNFIN BSMT-PARTIAL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2659079-000-00
+Issued: 2026-10-14
+Address: 22430 E 46TH AVE
+Contractor: 
+Valuation: 290955.0
+Units: </description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2659077-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-972CO-GV-2021 ELEV-A GFA-60K AC WH-ELEC WC-3 UNFIN BSMT-PARTIAL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -113,6 +99,20 @@ Issued: 2026-10-14
 Address: 22390 E 46TH AVE
 Contractor: 
 Valuation: 245910.0
+Units: </description>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2658658-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-782CO-GV-2021 ELEV- A GFA-80K AC CKTOP-32K WH-40K WC-4 FIN WO BSMT - FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2658658-000-00
+Issued: 2026-10-14
+Address: 22114 E 49TH PL
+Contractor: 
+Valuation: 258510.0
 Units: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
     </item>
