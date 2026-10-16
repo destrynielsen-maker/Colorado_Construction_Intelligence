@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2659058-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1933-GV-2021 ELEV-BT 4 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2659058-000-00
+Issued: 2026-10-15
+Address: 4615 N TIBET RD
+Contractor: 
+Valuation: 166635.0
+Units: </description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2659426-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1932-GV-2021 ELEV-BT 4 GFA-30K AC WH ELEC WC-3 BSMT-NONE CS/FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2659426-000-00
+Issued: 2026-10-15
+Address: 4613 N TIBET RD
+Contractor: 
+Valuation: 152040.0
+Units: </description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2658070-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED NHC-3505-HT-2021 ELEV-A GFA-60K AC-1 CKTOP-52K WH-180K WC-3 BSMT-NONE FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2658070-000-00
+Issued: 2026-10-15
+Address: 2211 S JAMESTOWN ST
+Contractor: 
+Valuation: 232890.0
+Units: </description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2659085-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-972CO-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-3 UNFIN BSMT-PARTIAL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3459,48 +3501,6 @@ Issued: 2026-07-16
 Address: 24394 E 53RD AVE
 Contractor: 
 Valuation: 197925.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635291-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1964-WI-2021 ELEV- B GFA-79K AC CKTOP-15K WH-200K WC-3.5 FIN BSMT - FULL FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635291-000-00
-Issued: 2026-07-16
-Address: 24414 E 53RD AVE
-Contractor: 
-Valuation: 283710.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635289-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-234.2504-PP-2021 ELEV-A GFA-79K AC FPL-25K WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635289-000-00
-Issued: 2026-07-16
-Address: 20524 E 57TH AVE
-Contractor: 
-Valuation: 263865.0
-Units: </description>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635287-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635287-000-00
-Issued: 2026-07-16
-Address: 20218 E 56TH PL
-Contractor: 
-Valuation: 175455.0
 Units: </description>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
     </item>
