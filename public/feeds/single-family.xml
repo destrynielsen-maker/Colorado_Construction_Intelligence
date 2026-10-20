@@ -5,16 +5,16 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2655246-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED PUL-3823-3-HT-2021 ELEV-A (2)GFA-27K/22K (2)AC CKTP-60K WH-160K WC-2 UNFINISHED BSMT-FULL FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2659055-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1931-GV-2021 ELEV-BT 2 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2655246-000-00
+Permit: 26-2659055-000-00
 Issued: 2026-10-19
-Address: 25112 E EVANS DR
+Address: 4605 N TIBET RD
 Contractor: 
-Valuation: 251265.0
+Valuation: 135870.0
 Units: </description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -33,16 +33,16 @@ Units: </description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2659055-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1931-GV-2021 ELEV-BT 2 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2655246-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED PUL-3823-3-HT-2021 ELEV-A (2)GFA-27K/22K (2)AC CKTP-60K WH-160K WC-2 UNFINISHED BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2659055-000-00
+Permit: 26-2655246-000-00
 Issued: 2026-10-19
-Address: 4605 N TIBET RD
+Address: 25112 E EVANS DR
 Contractor: 
-Valuation: 135870.0
+Valuation: 251265.0
 Units: </description>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
     </item>
