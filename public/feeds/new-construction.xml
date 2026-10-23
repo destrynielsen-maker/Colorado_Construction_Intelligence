@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2660653-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-135.1384-MC-2021 ELEV-A GFA-79K AC FPL-25K CKTP-15K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2660653-000-00
+Issued: 2026-10-22
+Address: 1654 S HALEYVILLE ST
+Contractor: 
+Valuation: 145110.0
+Units: </description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2660685-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1755-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2660685-000-00
+Issued: 2026-10-22
+Address: 20417 E 56TH PL
+Contractor: 
+Valuation: 184170.0
+Units: </description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2660688-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2660688-000-00
+Issued: 2026-10-22
+Address: 20427 E 56TH PL
+Contractor: 
+Valuation: 197925.0
+Units: </description>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2660335-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC CKTP-15K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3461,48 +3503,6 @@ Contractor:
 Valuation: 151935.0
 Units: </description>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2638779-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-974CO-GV-2021 ELEV-B GFA-60K AC WH-ELEC WC-3 UNFIN BSTM-PARTIAL FTG/CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2638779-000-00
-Issued: 2026-07-22
-Address: 21782 E 46TH PL
-Contractor: 
-Valuation: 290955.0
-Units: </description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2637891-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-934-GV-2021 ELEV-A GFA-50K AC WH-ELEC WC-4 BSMT-NONE FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2637891-000-00
-Issued: 2026-07-22
-Address: 3933 N ROME ST
-Contractor: 
-Valuation: 243705.0
-Units: </description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2636622-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-2209-HR-2021 ELEV-FH GFA-47K/38K AC(2) WH-ELEC WC-4 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2636622-000-00
-Issued: 2026-07-22
-Address: 2326 S HALEYVILLE WAY
-Contractor: 
-Valuation: 234675.0
-Units: </description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
