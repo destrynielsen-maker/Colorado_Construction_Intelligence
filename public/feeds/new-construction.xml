@@ -5,16 +5,16 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2660653-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-135.1384-MC-2021 ELEV-A GFA-79K AC FPL-25K CKTP-15K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2660688-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2660653-000-00
+Permit: 26-2660688-000-00
 Issued: 2026-10-22
-Address: 1654 S HALEYVILLE ST
+Address: 20427 E 56TH PL
 Contractor: 
-Valuation: 145110.0
+Valuation: 197925.0
 Units: </description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
@@ -33,16 +33,16 @@ Units: </description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2660688-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1886-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2660653-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-135.1384-MC-2021 ELEV-A GFA-79K AC FPL-25K CKTP-15K WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2660688-000-00
+Permit: 26-2660653-000-00
 Issued: 2026-10-22
-Address: 20427 E 56TH PL
+Address: 1654 S HALEYVILLE ST
 Contractor: 
-Valuation: 197925.0
+Valuation: 145110.0
 Units: </description>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
     </item>
