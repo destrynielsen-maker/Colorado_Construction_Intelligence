@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2555298-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED EPI-2214-WI-2021 ELEV-A GFA-60K AC CKTP-44K WH-199K WC-2.5 BSMT-NONE CS/SOG *SITE PLAN APPROVED AFTER 06/01/2007*</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 25-2555298-000-00
-Issued: 2026-10-27
-Address: 5471 N ELK ST
-Contractor: 
-Valuation: 193095.0
-Units: </description>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2660149-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DWH-B986-AH-2021 ELEV-C (2)GFA-110K/45K (2)AC WH-180K WC-6 FIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -29,6 +15,20 @@ Issued: 2026-10-27
 Address: 23855 E RIVER FRONT DR
 Contractor: 
 Valuation: 494760.0
+Units: </description>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2555298-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED EPI-2214-WI-2021 ELEV-A GFA-60K AC CKTP-44K WH-199K WC-2.5 BSMT-NONE CS/SOG *SITE PLAN APPROVED AFTER 06/01/2007*</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 25-2555298-000-00
+Issued: 2026-10-27
+Address: 5471 N ELK ST
+Contractor: 
+Valuation: 193095.0
 Units: </description>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
     </item>
