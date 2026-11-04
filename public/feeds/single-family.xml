@@ -5,6 +5,62 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2643706-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-3201-AH-2021 ELEV- A GFA-60K AC CKTOP-15K WH-199K OVEN-27K WC-2.5 UNFIN FULL BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2643706-000-00
+Issued: 2026-11-03
+Address: 3384 N HALEYVILLE CT
+Contractor: 
+Valuation: 189735.0
+Units: </description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2612497-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED EPI-5005-MC-2021 ELEV-A GFA-40K/26K AC WH-199K WC-2.5 UNFINISHED WALKOUT BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2612497-000-00
+Issued: 2026-11-03
+Address: 1961 S EATON PARK WAY
+Contractor: 
+Valuation: 318045.0
+Units: </description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2519637-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D945-HP-2021 ELEV-D GFA-40K AC CKTOP-56K WH-199K WC-2 NO BSMT-CS/SOG**SITE PLAN APPROVED AFTER 6/1/07**</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 25-2519637-000-00
+Issued: 2026-11-03
+Address: 6620 N NETHERLAND ST
+Contractor: 
+Valuation: 161910.0
+Units: </description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2519632-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED RIC-D944-HP-DIA ELEV-D GFA-40K AC CKTOP-56K WH-199K WC-2 NO BSMT-CS/SOG**SITE PLAN APPROVED AFTER 6/1/07**</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 25-2519632-000-00
+Issued: 2026-11-03
+Address: 6630 N NETHERLAND ST
+Contractor: 
+Valuation: 154875.0
+Units: </description>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2658052-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-2140-HR-2021 ELEV- FH GFA-72K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3447,62 +3503,6 @@ Contractor:
 Valuation: 243705.0
 Units: </description>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2636622-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-2209-HR-2021 ELEV-FH GFA-47K/38K AC(2) WH-ELEC WC-4 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2636622-000-00
-Issued: 2026-07-22
-Address: 2326 S HALEYVILLE WAY
-Contractor: 
-Valuation: 234675.0
-Units: </description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2636619-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1360-HR-2021 ELEV-HC GFA-ELEC AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2636619-000-00
-Issued: 2026-07-22
-Address: 2306 S HALEYVILLE WAY
-Contractor: 
-Valuation: 147945.0
-Units: </description>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2638322-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-222.1672-PP-2021 ELEV-A GFA-79K AC WH-200K WC-3.5 FULL FINISHED BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2638322-000-00
-Issued: 2026-07-21
-Address: 5664 N KIRK CT
-Contractor: 
-Valuation: 236775.0
-Units: </description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2638321-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.1964-PP-2021 ELEV-A GFA-79K AC WH-200K WC-2.5 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2638321-000-00
-Issued: 2026-07-21
-Address: 5662 N KIRK CT
-Contractor: 
-Valuation: 206220.0
-Units: </description>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
