@@ -5,6 +5,21 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2605852-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | PRAIRIE POINT MAINTENANCE FACILITY
+S-1 = 7,484  B = 4,588  R-3 = 1,800</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 45
+Permit: 26-2605852-000-00
+Issued: 2026-11-04
+Address: 17801 E NOVA DR
+Contractor: 
+Valuation: 5077369.0
+Units: </description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2643706-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TPH-3201-AH-2021 ELEV- A GFA-60K AC CKTOP-15K WH-199K OVEN-27K WC-2.5 UNFIN FULL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3487,20 +3502,6 @@ Issued: 2026-07-27
 Address: 16401 E ALAMEDA DR
 Contractor: 
 Valuation: 700000.0
-Units: </description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2639365-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-2578-HR-2021 ELEV-CR GFA-46K/47K AC-2 WC-4 BSMT NONE CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2639365-000-00
-Issued: 2026-07-27
-Address: 2355 S GRAND BAKER ST
-Contractor: 
-Valuation: 271320.0
 Units: </description>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>

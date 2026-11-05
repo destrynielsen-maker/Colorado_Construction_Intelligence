@@ -5,6 +5,21 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2605852-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | PRAIRIE POINT MAINTENANCE FACILITY
+S-1 = 7,484  B = 4,588  R-3 = 1,800</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 45
+Permit: 26-2605852-000-00
+Issued: 2026-11-04
+Address: 17801 E NOVA DR
+Contractor: 
+Valuation: 5077369.0
+Units: </description>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2525363-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | QUIKTRIP 4238|WITH CANOPIES-2|TRASH ENCLOSURE AND VACUUM HUT|</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3495,20 +3510,6 @@ Units: </description>
       <description>Category: MULTIFAMILY
 Score: 40
 Permit: 25-2529093-000-00
-Issued: 2025-05-22
-Address: 15470 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2529090-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2529090-000-00
 Issued: 2025-05-22
 Address: 15470 E 13TH AVE
 Contractor: 
