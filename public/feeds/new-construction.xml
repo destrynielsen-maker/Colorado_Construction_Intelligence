@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2664011-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TOL-WESLYN-OR-2021 ELEV-FH (2)GFA-78K/78K (2)AC FPL-35K CKTP-65K WH-200K BBQ-40K WC-5 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2664011-000-00
+Issued: 2026-11-05
+Address: 8113 S BERSSHINE ST
+Contractor: 
+Valuation: 397005.0
+Units: </description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2664018-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TOL-TELLER-OR-2021 ELEV-PRAIRIE (2)GFA-97K/78K AC - 2 FPL-35K CKTP-65K WH-200K BBQ-40K WC-6 UNFIN BSMT-WALKOUT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2664018-000-00
+Issued: 2026-11-05
+Address: 8124 S BERSSHINE ST
+Contractor: 
+Valuation: 478905.0
+Units: </description>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2605852-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | PRAIRIE POINT MAINTENANCE FACILITY
 S-1 = 7,484  B = 4,588  R-3 = 1,800</title>
@@ -3476,34 +3504,6 @@ Contractor:
 Valuation: 194145.0
 Units: </description>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2629586-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | 1350 N MOLINE ST UNIT 107 | COMBINED UNITS 105 AND 107 INTO 1 UNIT</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 26-2629586-000-00
-Issued: 2026-07-27
-Address: 1350 N MOLINE ST
-Contractor: 
-Valuation: 1000.0
-Units: 1</description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2630230-000-00</guid>
-      <title>[Aurora] BUILDING ONLINE|GLOBAL VILLAGE ACADEMY KITCHEN EXPANSION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 35
-Permit: 26-2630230-000-00
-Issued: 2026-07-27
-Address: 16401 E ALAMEDA DR
-Contractor: 
-Valuation: 700000.0
-Units: </description>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
