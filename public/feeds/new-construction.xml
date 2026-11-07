@@ -567,7 +567,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2658264-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED BLH-2418-WI-2021 ELEV-A GFA-70K AC-1 WH-99K WC-3 BSMT-NONE CS/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED BLH-2418-WI-2021 ELEV-B GFA-70K AC-1 WH-99K WC-3 BSMT-NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -1855,7 +1855,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2649187-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-235.2585-PP-2021 ELEV-B GFA-79K AC CKTOP-15K WH-200K WC-3.5 FULL UNFINISHED BSMT FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-235.2585-PP-2021 ELEV-B GFA-79K AC WH-200K WC-3.5 FULL UNFINISHED BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
