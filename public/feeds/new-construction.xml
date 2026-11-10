@@ -5,6 +5,48 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2574493-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | CAPITAL IMPROVEMENTS PROJECT TO AURORA WATER AT SEAM WAREHOUSE AND TRADES BUILDI</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 25-2574493-000-00
+Issued: 2026-11-09
+Address: 26711 E QUINCY AVE
+Contractor: 
+Valuation: 25000.0
+Units: </description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2664282-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | WIC HQ EXPANSION - AUTOMATED GATE PERMIT | ELEC, STRUCT, FLS | STORAGE/WAREHOUSE</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2664282-000-00
+Issued: 2026-11-09
+Address: 25751 E 64TH AVE
+Contractor: 
+Valuation: 20716.0
+Units: </description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2664745-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-139.1942-MC-2021 ELEV-C GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT- NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2664745-000-00
+Issued: 2026-11-09
+Address: 24723 E COLORADO PL
+Contractor: 
+Valuation: 208425.0
+Units: </description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2664018-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TOL-TELLER-OR-2021 ELEV-PRAIRIE (2)GFA-97K/78K AC - 2 FPL-35K CKTP-65K WH-200K BBQ-40K WC-6 UNFIN BSMT-WALKOUT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -1393,7 +1435,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2652683-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-235.2585-PP-2021 ELEV-B GFA-79K AC CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-235.2585-PP-2021 ELEV-B GFA-79K AC WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3458,48 +3500,6 @@ Score: 15
 Permit: 26-2635608-000-00
 Issued: 2026-07-28
 Address: 6549 N NETHERLAND ST
-Contractor: 
-Valuation: 194145.0
-Units: </description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635605-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED MHC-UNIT 4-HP-2021 ELEV-C GFA-60K AC CKTOP-40K WH-ELEC WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635605-000-00
-Issued: 2026-07-28
-Address: 6541 N NETHERLAND ST
-Contractor: 
-Valuation: 152250.0
-Units: </description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635604-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED MHC-UNIT 5-HP-2021 ELEV-C GFA-60K AC CKTOP-40K WH-ELEC WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635604-000-00
-Issued: 2026-07-28
-Address: 6539 N NETHERLAND ST
-Contractor: 
-Valuation: 173565.0
-Units: </description>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2635603-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED MHC-UNIT 6-HP-2021 ELEV-C GFA-60K AC CKTOP-40K WH-ELEC WC-2.5 BSMT-NONE-CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2635603-000-00
-Issued: 2026-07-28
-Address: 6531 N NETHERLAND ST
 Contractor: 
 Valuation: 194145.0
 Units: </description>
