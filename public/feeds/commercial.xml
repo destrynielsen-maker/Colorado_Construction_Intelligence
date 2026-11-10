@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|25-2574493-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | CAPITAL IMPROVEMENTS PROJECT TO AURORA WATER AT SEAM WAREHOUSE AND TRADES BUILDI</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: 25-2574493-000-00
-Issued: 2026-11-09
-Address: 26711 E QUINCY AVE
-Contractor: 
-Valuation: 25000.0
-Units: </description>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2664282-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | WIC HQ EXPANSION - AUTOMATED GATE PERMIT | ELEC, STRUCT, FLS | STORAGE/WAREHOUSE</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -29,6 +15,20 @@ Issued: 2026-11-09
 Address: 25751 E 64TH AVE
 Contractor: 
 Valuation: 20716.0
+Units: </description>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2574493-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | CAPITAL IMPROVEMENTS PROJECT TO AURORA WATER AT SEAM WAREHOUSE AND TRADES BUILDI</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 25-2574493-000-00
+Issued: 2026-11-09
+Address: 26711 E QUINCY AVE
+Contractor: 
+Valuation: 25000.0
 Units: </description>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
     </item>
