@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2665103-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-149.2483-WM-2021 ELEV-A GFA-80K AC FPL-25K CKTP-15K WH-200K WC-3.5 UNFIN BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2665103-000-00
+Issued: 2026-11-10
+Address: 5289 N DENALI BLVD
+Contractor: 
+Valuation: 262185.0
+Units: </description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2665104-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-149.2483-WM-2021 ELEV- A GFA-80K AC FPL-25K CKTOP-15K WH-200K WC-3.5 FINISHED BSMT-FULL FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2665104-000-00
+Issued: 2026-11-10
+Address: 5129 N DENALI BLVD
+Contractor: 
+Valuation: 402255.0
+Units: </description>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2664745-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-139.1942-MC-2021 ELEV-C GFA-79K AC CKTOP-15K WH-200K WC-2.5 BSMT- NONE CS/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3475,34 +3503,6 @@ Contractor:
 Valuation: 207795.0
 Units: </description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2624654-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED TOL-SANDREED-PT-2021 ELEV-MODERN BROWNSTONE GFA-60K AC CKTP-20K WH-199K WC-4 BSMT-NONE FTG/PTS</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2624654-000-00
-Issued: 2026-07-24
-Address: 6274 N KILLARNEY ST
-Contractor: 
-Valuation: 206955.0
-Units: </description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2603582-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED DRH-1483-HU-2021 ELEV-D GFA-60K AC CKTOP-45K WH-160K WC-3 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2603582-000-00
-Issued: 2026-07-23
-Address: 22546 E 7TH PL
-Contractor: 
-Valuation: 155715.0
-Units: </description>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
