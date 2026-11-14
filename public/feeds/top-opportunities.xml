@@ -5,6 +5,34 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2647930-000-00</guid>
+      <title>[Aurora] CROSSBAR COMMONS - NEW MULTI-FAMILY BUILDING</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 60
+Permit: 26-2647930-000-00
+Issued: 2026-11-13
+Address: 15961 E COLFAX AVE
+Contractor: 
+Valuation: 28000000.0
+Units: </description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|25-2574516-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | QUIKTRIP #4274</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 35
+Permit: 25-2574516-000-00
+Issued: 2026-11-13
+Address: 4585 S CHAMBERS RD
+Contractor: 
+Valuation: 900000.0
+Units: </description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2664282-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | WIC HQ EXPANSION - AUTOMATED GATE PERMIT | ELEC, STRUCT, FLS | STORAGE/WAREHOUSE</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3488,34 +3516,6 @@ Contractor:
 Valuation: 15000.0
 Units: </description>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2533177-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2533177-000-00
-Issued: 2025-06-04
-Address: 15480 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|24-2498416-000-00</guid>
-      <title>[Aurora] BUILDINGONLINE | AURORA HOUSING AUTHORITY POTOMAC CAMPUS - 43 UNITS</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 60
-Permit: 24-2498416-000-00
-Issued: 2025-05-28
-Address: 1280 S POTOMAC ST
-Contractor: 
-Valuation: 10000000.0
-Units: </description>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

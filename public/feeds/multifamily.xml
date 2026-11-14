@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2647930-000-00</guid>
+      <title>[Aurora] CROSSBAR COMMONS - NEW MULTI-FAMILY BUILDING</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: MULTIFAMILY
+Score: 60
+Permit: 26-2647930-000-00
+Issued: 2026-11-13
+Address: 15961 E COLFAX AVE
+Contractor: 
+Valuation: 28000000.0
+Units: </description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2615138-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | GROVE AT PINEWOOD APARTMENT CONDOMINIUM</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>

@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2574516-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | QUIKTRIP #4274</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 35
+Permit: 25-2574516-000-00
+Issued: 2026-11-13
+Address: 4585 S CHAMBERS RD
+Contractor: 
+Valuation: 900000.0
+Units: </description>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2664282-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | WIC HQ EXPANSION - AUTOMATED GATE PERMIT | ELEC, STRUCT, FLS | STORAGE/WAREHOUSE</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
