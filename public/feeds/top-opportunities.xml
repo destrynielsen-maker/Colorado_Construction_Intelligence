@@ -5,8 +5,22 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2667563-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | RANGEVIEW HIGH SCHOOL | VESTIBULE FIRE ALARM - ADD 2 SMOKES, RELO 1 PULL AND 1 H/S</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2667563-000-00
+Issued: 2026-11-16
+Address: 17599 E ILIFF AVE
+Contractor: 
+Valuation: 7325.0
+Units: </description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2647930-000-00</guid>
-      <title>[Aurora] CROSSBAR COMMONS - NEW MULTI-FAMILY BUILDING</title>
+      <title>[Aurora] CROSSBAR COMMONS - NEW MULTI-FAMILY BUILDING FOR AURORA HOUSING AUTHORITY</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 60
@@ -3496,20 +3510,6 @@ Units: </description>
       <description>Category: MULTIFAMILY
 Score: 40
 Permit: 25-2533203-000-00
-Issued: 2025-06-04
-Address: 15480 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2533187-000-00</guid>
-      <title>[Aurora] FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2533187-000-00
 Issued: 2025-06-04
 Address: 15480 E 13TH AVE
 Contractor: 

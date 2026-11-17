@@ -5,8 +5,50 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2667563-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | RANGEVIEW HIGH SCHOOL | VESTIBULE FIRE ALARM - ADD 2 SMOKES, RELO 1 PULL AND 1 H/S</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2667563-000-00
+Issued: 2026-11-16
+Address: 17599 E ILIFF AVE
+Contractor: 
+Valuation: 7325.0
+Units: </description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2659864-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-3453-OR-2021 ELEV-A GFA-52K /42K AC(2) FPL1-45K CKTOP-65K WH-199K WC-4 UNFIN BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2659864-000-00
+Issued: 2026-11-16
+Address: 7885 S DEER PARK ST
+Contractor: 
+Valuation: 362565.0
+Units: </description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2666458-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED BLH-2418-WI-2021 ELEV-A GFA-83K AC WH-99K WC-4 FIN FULL BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2666458-000-00
+Issued: 2026-11-16
+Address: 5452 N FLAT ROCK WAY
+Contractor: 
+Valuation: 320355.0
+Units: </description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2647930-000-00</guid>
-      <title>[Aurora] CROSSBAR COMMONS - NEW MULTI-FAMILY BUILDING</title>
+      <title>[Aurora] CROSSBAR COMMONS - NEW MULTI-FAMILY BUILDING FOR AURORA HOUSING AUTHORITY</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: MULTIFAMILY
 Score: 60
@@ -3460,48 +3502,6 @@ Issued: 2026-08-03
 Address: 22115 E 49TH PL
 Contractor: 
 Valuation: 177870.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2640799-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-234.2504-PP-2021 ELEV-A GFA-79K AC FPL-25K CKTOP-15K WH-200K WC-2.5 NO BSMT CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2640799-000-00
-Issued: 2026-08-03
-Address: 5692 N JEBEL CT
-Contractor: 
-Valuation: 263865.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2640797-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-234.2284-PP-2021 ELEV-A GFA-79K AC CKTOP-15K WH-200K WC-2.5 NO BSMT CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2640797-000-00
-Issued: 2026-08-03
-Address: 5673 N JERICHO ST
-Contractor: 
-Valuation: 241605.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2640426-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-782CO-GV-2021 ELEV-B GFA-80K AC CKTOP-32K WH-199K WC-3 NO BSMT CS/FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2640426-000-00
-Issued: 2026-08-03
-Address: 22224 E 49TH PL
-Contractor: 
-Valuation: 199185.0
 Units: </description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
