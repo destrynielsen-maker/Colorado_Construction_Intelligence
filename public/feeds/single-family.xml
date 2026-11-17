@@ -5,20 +5,6 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2659864-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-3453-OR-2021 ELEV-A GFA-52K /42K AC(2) FPL1-45K CKTOP-65K WH-199K WC-4 UNFIN BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2659864-000-00
-Issued: 2026-11-16
-Address: 7885 S DEER PARK ST
-Contractor: 
-Valuation: 362565.0
-Units: </description>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2666458-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED BLH-2418-WI-2021 ELEV-A GFA-83K AC WH-99K WC-4 FIN FULL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -29,6 +15,20 @@ Issued: 2026-11-16
 Address: 5452 N FLAT ROCK WAY
 Contractor: 
 Valuation: 320355.0
+Units: </description>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2659864-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED CEN-3453-OR-2021 ELEV-A GFA-52K /42K AC(2) FPL1-45K CKTOP-65K WH-199K WC-4 UNFIN BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2659864-000-00
+Issued: 2026-11-16
+Address: 7885 S DEER PARK ST
+Contractor: 
+Valuation: 362565.0
 Units: </description>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
     </item>
