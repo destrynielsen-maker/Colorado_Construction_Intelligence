@@ -5,6 +5,39 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2628458-000-00</guid>
+      <title>[Aurora] TIGRAY COMMUNITY CENTER
+
+B = 2,606 sq ft
+M = 1,624 sq ft
+S = 578 sq ft
+A = 10,642 sq ft</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 45
+Permit: 26-2628458-000-00
+Issued: 2026-11-17
+Address: 11182 E MISSISSIPPI AVE
+Contractor: 
+Valuation: 6150000.0
+Units: </description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2664906-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | COMMERCIAL WAREHOUSE RACKING PROJECT IN AN EXISTING BUILDING|</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: 26-2664906-000-00
+Issued: 2026-11-17
+Address: 3700 N WINDSOR DR
+Contractor: 
+Valuation: 100000.0
+Units: </description>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2667563-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | RANGEVIEW HIGH SCHOOL | VESTIBULE FIRE ALARM - ADD 2 SMOKES, RELO 1 PULL AND 1 H/S</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -1001,7 +1034,7 @@ Units: </description>
     </item>
     <item>
       <guid isPermaLink="false">CO|aurora|26-2656215-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.2138-WI-2021 ELEV-A GFA-79K AC FPL-25K CKTOP-15K WH-200K WC-3.5 FULL FIN BSMT FTG/SOG</title>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED KAU-224.2138-WI-2021 ELEV-A GFA-79K AC FPL-25K CKTOP-15K BBQ-10K WH-200K WC-3.5 FULL FIN BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
@@ -3476,34 +3509,6 @@ Contractor:
 Valuation: 171675.0
 Units: </description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2641462-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-781CO-GV-2021 ELEV-B GFA-80K AC CKTOP-32K WH-40K WC-2 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2641462-000-00
-Issued: 2026-08-03
-Address: 22204 E 49TH PL
-Contractor: 
-Valuation: 181125.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2641186-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-415-GV-2021 ELEV-A GFA-60K AC CKTP-32K WH-40K WC-2 BSMT-NONE RAFT/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2641186-000-00
-Issued: 2026-08-03
-Address: 22115 E 49TH PL
-Contractor: 
-Valuation: 177870.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
