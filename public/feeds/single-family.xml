@@ -21,20 +21,6 @@ Units: </description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2662450-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED WLH-35D3-AH-2021 ELEV-A GFA-66K AC FPL-25K CKTOP-52K WH-200K WC-2.5 UNFINI PARTIAL BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2662450-000-00
-Issued: 2026-11-18
-Address: 24152 E 32ND PL
-Contractor: 
-Valuation: 186375.0
-Units: </description>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">CO|aurora|26-2662455-000-00</guid>
       <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED WLH-35D2-AH-2021 ELEV-A GFA-66K AC WH-200K WC-2.5 UNFINI PARTIAL BSMT FTG/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -45,6 +31,20 @@ Issued: 2026-11-18
 Address: 24142 E 32ND PL
 Contractor: 
 Valuation: 161385.0
+Units: </description>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2662450-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED WLH-35D3-AH-2021 ELEV-A GFA-66K AC FPL-25K CKTOP-52K WH-200K WC-2.5 UNFINI PARTIAL BSMT FTG/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2662450-000-00
+Issued: 2026-11-18
+Address: 24152 E 32ND PL
+Contractor: 
+Valuation: 186375.0
 Units: </description>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
     </item>
