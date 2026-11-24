@@ -5,6 +5,20 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|25-2504402-000-00</guid>
+      <title>[Aurora] BUILDINGONLINE | PICADILLY CROSSING BUILDING 1</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: COMMERCIAL
+Score: 50
+Permit: 25-2504402-000-00
+Issued: 2026-11-23
+Address: 21051 E 6TH AVE
+Contractor: 
+Valuation: 16900500.0
+Units: </description>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|26-2666505-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | PAW PROSPER|WAREHOUSE RACKING HIGH PILED COMBUSTIBLE STORAGE</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3507,20 +3521,6 @@ Contractor:
 Valuation: 6350.0
 Units: </description>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|25-2533235-000-00</guid>
-      <title>[Aurora] FROM MASTER WS-UNIT TYPE 2 FOR WEATHERSTONE APARTMENT RENOVATION</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: MULTIFAMILY
-Score: 40
-Permit: 25-2533235-000-00
-Issued: 2025-06-04
-Address: 15480 E 13TH AVE
-Contractor: 
-Valuation: 15000.0
-Units: </description>
-      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
