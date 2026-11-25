@@ -5,6 +5,90 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
+      <guid isPermaLink="false">CO|aurora|26-2668021-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1932-GV-2021 ELEV- BT 3 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668021-000-00
+Issued: 2026-11-24
+Address: 4633 N TIBET RD
+Contractor: 
+Valuation: 152040.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2668030-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1931-GV-2021 ELEV-BT 1 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668030-000-00
+Issued: 2026-11-24
+Address: 22473 E 46TH AVE
+Contractor: 
+Valuation: 135870.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2668020-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1932-GV-2021 ELEV-BT 1 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668020-000-00
+Issued: 2026-11-24
+Address: 4625 N TIBET RD
+Contractor: 
+Valuation: 152040.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2668019-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1932-GV-2021 ELEV-BT 3 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668019-000-00
+Issued: 2026-11-24
+Address: 4635 N TIBET RD
+Contractor: 
+Valuation: 152040.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2668433-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-411CO-GV-2021 ELEV- C GFA-58K AC CKTOP-32K WH-40K WC-2 NO BSMT-RAFT/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668433-000-00
+Issued: 2026-11-24
+Address: 4955 N SHAWNEE CT
+Contractor: 
+Valuation: 147945.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2668017-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1931-GV-2021 ELEV-BT 1 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668017-000-00
+Issued: 2026-11-24
+Address: 4623 N TIBET RD
+Contractor: 
+Valuation: 135870.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <guid isPermaLink="false">CO|aurora|25-2504402-000-00</guid>
       <title>[Aurora] BUILDINGONLINE | PICADILLY CROSSING BUILDING 1</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
@@ -3425,90 +3509,6 @@ Issued: 2026-08-04
 Address: 22411 E 46TH AVE
 Contractor: 
 Valuation: 166635.0
-Units: </description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2640518-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-971CO-GV-2021 ELEV-A GFA-60K AC WH-ELEC WC-3 PARTIAL UNFIN BSMT FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2640518-000-00
-Issued: 2026-08-04
-Address: 4578 N SICILY CT
-Contractor: 
-Valuation: 212310.0
-Units: </description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2640477-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-971CO-GV-2021 ELEV-A GFA-60K AC WH-ELEC WC-3 PARTIAL UNFIN BSMT-FTG/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2640477-000-00
-Issued: 2026-08-04
-Address: 21781 E 46TH PL
-Contractor: 
-Valuation: 212310.0
-Units: </description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2637404-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1974-HR-2021 ELEV-CR GFA-56K AC WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2637404-000-00
-Issued: 2026-08-04
-Address: 2375 S GRAND BAKER ST
-Contractor: 
-Valuation: 207270.0
-Units: </description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2637403-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1974-HR-2021 ELEV-FH GFA-56K AC WH-ELEC WC-2 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2637403-000-00
-Issued: 2026-08-04
-Address: 2366 S GRAND BAKER ST
-Contractor: 
-Valuation: 207270.0
-Units: </description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2637399-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-2612-HR-2021 ELEV-FH (2)GFA-53K/46K (2)AC WH-ELEC WC-4 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2637399-000-00
-Issued: 2026-08-04
-Address: 2363 S GOLD BUG ST
-Contractor: 
-Valuation: 274155.0
-Units: </description>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2636625-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED LEN-1868-HR-2021 ELEV-CR (2)GFA-40K/38K (2)AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2636625-000-00
-Issued: 2026-08-04
-Address: 2334 S HALEYVILLE WAY
-Contractor: 
-Valuation: 196140.0
 Units: </description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
