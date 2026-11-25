@@ -5,16 +5,16 @@
     <link>https://destrynielsen-maker.github.io/Colorado_Construction_Intelligence/</link>
     <description>Colorado new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">CO|aurora|26-2668021-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1932-GV-2021 ELEV- BT 3 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <guid isPermaLink="false">CO|aurora|26-2668433-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-411CO-GV-2021 ELEV- C GFA-58K AC CKTOP-32K WH-40K WC-2 NO BSMT-RAFT/SOG</title>
       <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: 26-2668021-000-00
+Permit: 26-2668433-000-00
 Issued: 2026-11-24
-Address: 4633 N TIBET RD
+Address: 4955 N SHAWNEE CT
 Contractor: 
-Valuation: 152040.0
+Valuation: 147945.0
 Units: </description>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
@@ -29,6 +29,20 @@ Issued: 2026-11-24
 Address: 22473 E 46TH AVE
 Contractor: 
 Valuation: 135870.0
+Units: </description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">CO|aurora|26-2668021-000-00</guid>
+      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-1932-GV-2021 ELEV- BT 3 GFA-30K AC WH-ELEC WC-3 BSMT-NONE CS/SOG</title>
+      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: 26-2668021-000-00
+Issued: 2026-11-24
+Address: 4633 N TIBET RD
+Contractor: 
+Valuation: 152040.0
 Units: </description>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
@@ -57,20 +71,6 @@ Issued: 2026-11-24
 Address: 4635 N TIBET RD
 Contractor: 
 Valuation: 152040.0
-Units: </description>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">CO|aurora|26-2668433-000-00</guid>
-      <title>[Aurora] PERMITSONLINE | SINGLE FAMILY DETACHED OAK-411CO-GV-2021 ELEV- C GFA-58K AC CKTOP-32K WH-40K WC-2 NO BSMT-RAFT/SOG</title>
-      <link>https://ags.auroragov.org/aurora/rest/services/OpenData/MapServer/44</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: 26-2668433-000-00
-Issued: 2026-11-24
-Address: 4955 N SHAWNEE CT
-Contractor: 
-Valuation: 147945.0
 Units: </description>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
     </item>
